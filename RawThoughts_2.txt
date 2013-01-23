@@ -1,0 +1,1693 @@
+
+====================================================
+Date: July 21, 2008
+ 
+Title: The Percentage Fallacy
+ 
+Theres one bit of irrationality that seems like it ought to be in behavioral economics introduction but mysteriously isnt. For lack of a better term, lets call it the percentage fallacy. The idea is simple:
+ 
+One day I find I need a blender. I see a particularly nice one at the store for $40, so I purchase it and head home. But on the way home, I see the exact same blender on sale at a different store for $20. Now I feel ripped off, so I drive back to the first store, return the blender, drive back to the second store, and buy it for $20.
+ 
+The next day I find I need a laptop. I see a particularly nice one at the store for $2500, so I purchase it and head home. But on the way home, I see the exact same laptop for $2480. Pff, well, its only $20, I say, and continue home with the original laptop.
+ 
+Im sure all of you have done something similar  maybe the issue wasnt having to return something, but spending more time looking for a cheaper model, or fiddling with coupons and rebates, or buying something of inferior quality. But the basic point is consistent: well do things to save 50% that wed never do to save 1%.
+ 
+At first this almost seems rational  of course were going to do more to save more money! But you arent saving more money. With both the blender and the laptop, you have the chance to save $20. Either way, youre going to have another twenty in your pocket, which you can spend on exactly the same things later on. Yet we behave differently depending on whether we got that twenty by skimping on a small purchase or skimping on a big one. Rationally, if driving back to the store isnt worth $20 when youre buying a laptop, it isnt worth $20 when youre buying a blender.
+ 
+On the other hand, dont those small savings tend to add up after a while? If you start blowing $20 every time you buy a trinket, youre soon going to be out of disposable income. Meanwhile, spending several thousand dollars is much rarer, so isnt it OK to slack off a bit on such occasions?
+ 
+If we work to save 50% on everything, big or small, thats the equivalent of saving 50% of our money altogether. Whereas if we only try to save fixed amounts on every purchase, how much we save is dependent on how many things we buy.
+ 
+So which is the real irrationality? Im not entirely sure of the answer.
+ 
+You should follow me on twitter here.
+ 
+July 21, 2008
+ 
+Just wanted to say this reminds me of Why Smart People Make Big Money Mistakes And How To Correct Them by Belsky & Gilovich. It was an entertaining read.
+ 
+posted by Stan
+ on July 21, 2008 #
+ 
+This is, or is related to, scope insensitivity:
+ 
+http://www.overcomingbias.com/2007/05/scope_insensiti.html
+ 
+posted by Aaron
+ on July 22, 2008 #
+ 
+This is covered in behavioural economics. For example, see Predictably Irrational (http://www.amazon.com/gp/reader/006135323X/ or http://openlibrary.org/b/OL9952510M) where Dan Ariely calls it the problem of relativity using an example about pens and suits (p. 19-20).
+ 
+posted by Alex
+ on July 22, 2008 #
+ 
+Im not sure that the kind of person who will spend $2500 on a laptop is the same as the kind of person who would return the $40 blender.
+ 
+Im sure there are other analogies which point out this behavior, but I dont think the blender one is realistic.
+ 
+posted by Anthony
+ on July 22, 2008 #
+ 
+Isnt there another angle to this? Assuming that the market rate should fairly be the point of best compromise between the lowest a seller will accept and the highest a buyer is prepared to spend, its perceived as important not to support someone charging 200% of the market rate, but significantly less important that someone charging less than 1% above the market rate gets away with it. How dare they charge me $40 for a $20 blender? bears no real comparison to So they charged me $2500 for a $2480 laptop? Wooo. Again, if its a question of principle then the response in one sense should be the same - thats unfair, Im going to sort it out - but this way round, the percentage does seem to matter, whether its $20 or $2000.
+ 
+posted by Igor Clark
+ on July 22, 2008 #
+ 
+I think the driving force is the need to not look/feel like an idiot. Buying something at twice the normal price leaves people with the same amount of feeling ripped off, almost regardless of the amount of money that they lost.
+ 
+It then varies how much emphasis people put on not looking like fools vs. saving actual money.  Those whore poor probably think more about the dollars.
+ 
+posted by Mr
+ on July 22, 2008 #
+ 
+Maybe people dont return the laptop because buying or returning a laptop usually involves a bit more paperwork/time, since it is a big ticket item.  Also, if you accidentally drop the blender on the way into the store, youre out $40, while if you drop the laptop, youre out $2500.
+ 
+posted by Aaron
+ on July 22, 2008 #
+ 
+I personally when doing financial computation put everything into dollars/year. In the above example, both would appear as $20, and I would act accordingly. The reasons for the year, is for comparing reoccurring bills such as cell phones. Add all the costs up, then divide it by the terms of the contract. This way, Im always comparing in like terms.
+ 
+posted by Shawn
+ on July 22, 2008 #
+ 
+You might also consider the long term.  A 1% variation of prices between stores is to be expect, but a 50% variation is not, regardless of the price of the item.  One cant put a dollar amount on the variation of prices between goods at different stores for any arbitrary goods; if blenders vary by $20 in price in a town, its unreasonable to expect laptops or cars to vary by the same amount.
+ 
+So if you think in macroscopic terms, we would like a strategy to execute consistently over our lifetimes, for all goods.  If we hit 5 stores on the way home, we cant keep exchanging the item every time we see a 1% variation in the price of a good.  A 50% variation, since its so uncommon, would be worth the effort, since its unlikely to be repeated.
+ 
+I agree with your reasoning in general, Im just thinking of a possible explanation for why people behave this way.
+ 
+posted by enginerd
+ on July 22, 2008 #
+ 
+If youre not broke, who really gives a crap?
+ 
+posted by surebutt
+ on July 22, 2008 #
+ 
+Did you know that 40% of people are good at understanding percentages, but 70% are bad at it?
+ 
+posted by MathGuy
+ on July 22, 2008 #
+ 
+This post reminds me of the book Predictably Irrational by Dan Ariely. Its pop economics but a very good read for intellectuals alike.
+ 
+posted by Ron
+ on July 25, 2008 #
+ 
+posted by 
+ on July 26, 2008 #
+ 
+There are hidden qualities to the place you purchase an item.  For instance, people typically find (or at least imagine) that higher-priced stores give better service, are more trustworthy, etc.  A higher quality store might be worth 10% of the purchase price.  So, if you spend $22 vs $20 on the blender, you can at least imagine its a wash.  But 100% markup is more than you can ignore.  So then you decide if the effort is worth $20.  For a laptop you might need $2750 vs $2500 before you consider whether the effort is worth the money.
+ 
+Of course there isnt a specific cutoff, so its a bit more vague than this.  And of course higher prices dont always mean a better quality (where quality is customer service, the chance of fraud, the ability to return the item in the future, etc).
+ 
+posted by Ian Bicking
+ on July 27, 2008 #
+ 
+Isnt the rational thing to do to judge how long it takes to return the item against the value of your time (judged by the next-best alternative), and if you come out ahead, then to do it, regardless of percentages?
+ 
+I try to think this way, but its hard to fight that feeling of being ripped off when you see a large percentage difference.
+ 
+I also think that when you make a high value purchase, youre in a different thinking mode.
+When Im purchasing things in the sub $50 range, Im thinking in terms of how many coffees or books Im giving up. When Im purchasing things in the 1000+ plus range, Im thinking in terms of computers or cars.
+ 
+$20 in the first sense feels like two weeks worth of coffee. $20 in the second sense feels like just some nominal percent of a laptop, so it holds less value until I change purchasing modes.
+ 
+posted by Tim Showers
+ on August  6, 2008 #
+ 
+Umm Late to the party here, but I dont get it. If we assume one buys $40 items every week, but buys $2,500 items only once or twice a year, its pretty obvious why it would be a bad idea to get into the habit of letting oneself get ripped off $20 on a $40 item - youll go broke in a hurry.
+ 
+An analogy: Most people will splurge on (dinner, tickets) when on vacation, but not when not. Why? Because their budgets can tolerate a small deviation. But if they begin out-of-budget splurging every week of the year, their budgets will crumble.
+ 
+Its not a fallacy at all. Its about forming good habits. Its a good habit to demand a refund on a 50% overpayment, and probably a bad habit to start haggling over 1% differences.
+ 
+posted by Percy
+ on August 19, 2008 #
+ 
+You can also send comments by email.
+ 
+
+ 
+
+====================================================
+Date: June 30, 2008
+ 
+Title: Capital and its Complements: A Summary
+ 
+The following is a non-technical summary of Brad DeLongs May 2008 paper Capital and Its Complements.
+ 
+Adam Smith explained that in all countries with security of property and tolerable administration of justice citizens would spend all their money (capital), either on consumption or investment, causing the countrys economy to grow. After some contention, later economic studies tended to bare this out: a shortage of capital wasnt always the bottleneck, but when it was, removing it could lead to extraordinarily rapid growth.
+ 
+The problem for poor countries is that, because of high mortality rates (which require more children to have some survive) and low educational levels (which mean those children can find productive employment quickly), they have high population growth and thus low capital-to-labor ratios. Worse, trade allows you to spend your money buying manufactured goods from overseas, for which you have only your very cheap labor to provide in return. The result is that it requires an enormous amount of domestic investment to improve capital-to-labor ratios.
+ 
+And so rich country economists made the neoliberal bet on behalf of poor countries: they hoped that loosening restrictions on international capital flows would send capital rushing in to poor countries and build their economies, the same way that Great Britains massive investment in a young United States (in 1913 Britains foreign assets equaled 60% of its domestic capital stock) built up that country.
+ 
+But what ended up happening was exactly the opposite. Yes, NAFTA led US companies to invest the $20 to $30 billion a year on manufacturing in Mexico that its boosters predicted, but that investment was more than outweighed by the $30 to $40 billion a year fleeing the country from Mexicos wealthy wanting to invest it in the United States. Why? In part because the US was more politically stable, and thus a safer investment climate. And in part because the US treats its own workers so poorly  with productivity rising 35% since 2000 while real wages remain flat  it provides an excellent investment opportunity.
+ 
+But meanwhile, all this investment in the US was dwarfed by the Chinese acquisition of our debt (and thus the political risk it represents). China needed to do this, since US purchase of their exports is the only thing funding the manufacturing-led industrialization of a massive portion of their economy; there would be massive dislocation if that funding dried up.
+ 
+Recognition of these facts came slowly. First, Larry Summers said it was our unsustainable current account deficit. (That was the 1990s; today that deficit is four times as large.) Later, economists thought it must have been our large budget deficits. Then they began thinking it was the run-up in housing prices. But that, it is now clear to most economists, was the result of a bubble. And yet the flow of capital to the US continues. But, perhaps even more frighteningly, it could stop at any moment.
+ 
+You should follow me on twitter here.
+ 
+June 30, 2008
+ 
+ncv0ZD  erdphcoxrkgn, [url=http://vtrgqmwzzcdr.com/]vtrgqmwzzcdr[/url], [link=http://hdrdtjtisjaw.com/]hdrdtjtisjaw[/link], http://xsfumzwejteq.com/
+ 
+posted by zizybgb
+ on July  7, 2008 #
+ 
+You can also send comments by email.
+ 
+
+ 
+
+====================================================
+Date: June 19, 2008
+ 
+Title: Last Goodbyes
+ 
+Its minutes to midnight and Im hurriedly packing. Early tomorrow morning I catch a flight to Boston and start my new life. I havent really gotten much of a chance to pack until now, because Ive spent the past few days in a rush of meetings, getting in my last goodbyes for everyone I know in San Francisco.
+ 
+Its been great seeing everyone, but like most locals, theyre all puzzled as to why Im leaving. Ive been struggling to explain why. When I say the weather, everyone just laughs. When I say San Francisco is too loud, they start arguing. When I say its the people, they tell me to find a better group of friends.
+ 
+And the thing is, theyre right. Its none of these. Ive been spectacularly unable to articulate it, but the real answer is simpler and more prosaic. And now, after great thought and struggle, I realize the answer is simply this: Cambridge is the only place thats ever felt like home. Its that simple. And when you put it that way, its clear why I have to go.
+ 
+So goodbye Stanford, goodbye Palo Alto; goodbye south bay, goodbye peninsula; goodbye Change Congress, goodbye Creative Commons; goodbye Mission, goodbye SOMA; goodbye friends, goodbye loved ones; goodbye San Francisco, home to everyone Ive ever loved. Youll always have my heart.
+ 
+You should follow me on twitter here.
+ 
+June 19, 2008
+ 
+Bye, Aaron.  I feel the same way about New Mexico, sigh.
+ 
+posted by joe
+ on June 19, 2008 #
+ 
+That, my friend, is an un-arguable point. Home is home. And whatever and wherever you feel it, enjoy it. Well miss youbut undoubtedly throw an internet tether around you now and again.
+ 
+Cheers and safe travels!
+ 
+posted by Japhet
+ on June 19, 2008 #
+ 
+While one cant argue with your feelings, I still think moving from sunny San Francisco to miserable-weather Cambridge, is crazy. You cant go home again, as home is a moment in time.
+ 
+posted by Seth Finkelstein
+ on June 20, 2008 #
+ 
+its understandable. for all the back and forth on the merits of this place and that, it was when you told me that it felt like home i stopped arguing. well, about what you should do, anyway.
+ 
+posted by q
+ on June 22, 2008 #
+ 
+Welcome back. Im glad to hear you had such a positive experience here.  Hope you you keep that warm fuzzy feeling as you settle down, reconnect with the scene, develop a strong local network, and realize what a bunch of a-holes we are.  (BTW, my one-word response to complaints about New England weather: Iowa.)
+ 
+posted by sierra
+ on July  3, 2008 #
+ 
+You can also send comments by email.
+ 
+
+ 
+
+====================================================
+Date: June 19, 2008
+ 
+Title: Scenes
+ 
+God, Im so sick of this stuff. Cant we just go home? she wines. Jesus, I say, would it kill you to go one more place? Its been a long hot day in strange, busy New York City, and were not exactly at our best. In fact, the combination of heat and exhaustion has turned our love bitter, brought on the darkness and recriminations. Its at moments like these, the dark depths of a relationship, that you wonder how things could ever work. As we walk down the steps we hear a subway car approach. We accelerate, running to catch it. Its doors open. Were moving faster now, pushing our way through the bustle of Manhattanites to make it. The bell sounds and I jump inside and hear the doors whoosh closed behind me. I spin around only to see her trapped on the other side of the glass. I put my hand up to it, but the train accelerates and shes left standing there, just another face in the crowd.
+ 
+Hey, want to see the game? Want a ticket to the Giants game? I do not, in fact, want to see the game  this or any other game. I hate sports. Yet the scalpers, apparently unaware of this, insist on trying to sell me one. Thats what I get for walking near the ballpark, I guess. As I curse my choice of scenery, a cop pulls up. He lowers his window and leans out toward the scalper. The scalper hands him a ticket and the cop speeds off. But he didnt pay! a man in a suit walking by complains. Cops get a special deal, explain the scalper. The man in the suit laughs and marvels at the scene.
+ 
+Its weird being back at Stanford in the summer. Everythings so empty, nobodys around. Well, not nobody  there seems to be some action near the main quad. There are drum kits spread around and golf carts and purple uniforms lying about. But most of all, there are people  a bunch of students just standing around awkwardly. Im about to ask one of them whats going on when a bell rings and a voice shouts Background! Suddenly all the students snap to attention, begin walking in perfect lines with bookbags slung over their shoulder, bicycles ridden in perfect formation. These arent students at all, I realize with a lurch  theyre extras. Its disconcerting. A police guard is at the side, keeping kids from running over the camera crew. I ask her what theyre filming. Disneys High School Musical, she says quickly, trying to keep a student from cycling over the directors cart.
+ 
+You should follow me on twitter here.
+ 
+June 19, 2008
+ 
+Wow, I like the format. If a short story is like video, these are like photographs. Well done.
+ 
+posted by David McCabe
+ on June 19, 2008 #
+ 
+You can also send comments by email.
+ 
+
+ 
+
+====================================================
+Date: June 16, 2008
+ 
+Title: Moving On
+ 
+In November 2006, I moved to San Francisco because I had to: my company got acquired and us moving out was a condition of the agreement. It was the first time Id ever actually lived in San Francisco, as opposed to just visiting, and I quickly realized that although it was a fun place to visit, I couldnt stand living here.
+ 
+Even after all this time, I cant really put my finger on what it is I dont like  in fact, I suspect its probably harder for me now to explain it than it was when I first came here. The first thing that comes to mind is how loud the city is. I want a place where I can live quietly and focus on my work; but San Francisco is filled with distractions. There are always crews tearing up the street, trains that are delayed, buses that have broken down, homeless people begging, friends having parties, and so on. Its impossible to concentrate and without my concentration, I feel less like me.
+ 
+The other big problem is that San Francisco is fairly shallow. When I go to coffee shops or restaurants I cant avoid people talking about load balancers or databases. The conversations are boring and obsessed with technical trivia, or worse, business antics. I dont see people reading books  even at the library, all the people are in line for the computer terminals or the DVD rack  and people at parties seem uninterested in intellectual conversation.
+ 
+And so Im moving back to Cambridge, Massachusetts  Harvard Square in particular, the one place Ive ever been to that brings a special delight to my eyes, that warms my heart just to see. Surrounded by Harvard and MIT and Tufts and BC and BU and on and on its a city of thinking and of books, of quiet contemplation and peaceful concentration. And it has actual weather, with real snow and seasons and everything, not this time-stands-still sun that San Francisco insists upon.
+ 
+I miss Boston; Im excited to go back.
+ 
+But Im also sad to leave my responsibilities in San Francisco. One of which Id particularly like your help with. Ive been honored and overjoyed to help Lawrence Lessig get his Change Congress project off the ground. If you havent heard, hes trying to build a national movement to get the corruption out of Congress; to pass public financing of public elections, earmark reform, and other pressing concerns.
+ 
+But they need a full-time day-to-day tech organizer. Someone who knows how to blog and who the bloggers are and can keep them in touch with the community. Someone who knows enough about technology to know the tools that can be built and should be. And someone with enough drive and talent to make sure those things get built. Its a dreamy job and I hope theres someone out there who will take it from me. A more formal write-up is on the Change Congress blog.
+ 
+Thanks for everything.
+ 
+You should follow me on twitter here.
+ 
+June 16, 2008
+ 
+Congrats on your move. I was just in Harvard Square a few days ago and enjoyed my short time walking around the area.
+ 
+I will say, though, that while I was there, my ride on the T was delayed, some street musicians were playing loud Bob Dylan covers and, yes, I even witnessed some homeless people begging. I guess some things about city life are the same wherever you go.
+ 
+posted by Adrian Holovaty
+ on June 16, 2008 #
+ 
+Aaronno offense, but lighten up, man! Cities everywhere, even Cambridge, are loud and annoying and have beggars; people will always, even in Cambridge, disappoint and be lower-brow than you wish. I find aspects of San Francisco a bit tedious myself, but your analysis is superficial. Holing yourself up in an academic cocoon is just as selfish and self-enthralled as the database load balancers you mock. Cant you see the contradiction in your engagement through Change Congress and your, frankly, whiny rejectionism? And in your yearning for the real seasons of Boston while at the same time seeking some notion urban purity?
+ 
+posted by Paul Smith
+ on June 16, 2008 #
+ 
+In my defense, my sense of San Franciscos annoyances may be slightly skewed by the fact that I presently have A FRIGGIN JACKHAMMER OUTSIDE MY WINDOW THAT WILL NOT STOP GORRAMIT.
+ 
+Sorry, just had to get that off my chest.
+ 
+posted by Aaron Swartz
+ on June 16, 2008 #
+ 
+You & I established within 5 minutes of meeting that we have opposite city preferences. You were interested in Philly and I hated every minute there, and I even hated the parts that you liked. Im happily in SF, and you were not so.
+ 
+I am pretty sure, in retrospect, that my problem with Philly was that I didnt figure it out. That is not to say that I should have stayed in Philly & figured it out. If I had, I may have loved it there. But leaving was a much quicker route to the things I wanted.
+ 
+I think I am trying to say Yes, dot-commers can be irritating, but please dont insult my city.
+ 
+posted by Ben Donley
+ on June 16, 2008 #
+ 
+Interesting post, Aaron. Ive lived in both places, San Francisco now for almost 5 years, and Cambridge (in various places around Harvard Square) for several years previously. I do miss Cambridge a little bitand can relate to your experiences in both places. That being said, though, I do have some thoughts
+ 
+I think that you can surround yourself with the things you like to be around wherever you live-well, at least specifically in these two places. It can more or less difficult in some areas, but it can be done. Its taken me a long time to find my niche in SF- people I can relate to, and friends-rather than acquaintances. I think I fell into the trap of passively looking for the things I craved, instead of proactively finding them & taking a leap of faith every now and then.
+ 
+I think SF is full of a lot of people that are searching for this niche, in fact, I think thats part of the attraction-you can find whatever youre looking for here. But, it can sometimes take some time. Its not a college town, like Cambridge/Boston-its a post college playpen.
+ 
+And-no comment on the weather.
+ 
+posted by Scot Federman
+ on June 17, 2008 #
+ 
+Aaron,
+ 
+Yay!  We will be glad to have you back!  And while I have never been to SF, my wife has and, much to her consternation, found she greatly disliked it, and for much the same reasons you stated.
+ 
+posted by Reg Aubry
+ on June 17, 2008 #
+ 
+Aaron,
+ 
+Welcome back to Cambridge. I definitely understand the contrast between San Francisco and Cambridge; I find it really hard to explain to my fellow students that I actually enjoy New England and that I cant stand spending long periods of time in California.
+ 
+With your move back to Cambridge, what are you going to be focusing your energy on? Im curious to hear about the latest-and-greatest that you have planned, though Im sure it will be documented here on your blog in due time.
+ 
+I dont know if you remember, but we sat down for lunch back in the summer of 2005 in Cambridge - perhaps it would be interesting to have lunch together again now, 3 years and two cities later?
+ 
+Quentin
+ 
+posted by Quentin Smith
+ on June 17, 2008 #
+ 
+The shallowness is an intriguing point. Doesnt this feeling mostly arise with things that can be considered mainstream, or in places that are much-hyped?
+ 
+Love SF with all of my heart, though. And now feel I might want to visit Boston at some point too.
+ 
+posted by Tommi
+ on June 17, 2008 #
+ 
+Hey Aaron!  Too bad to hear that youre leaving San Francisco.. I hear your criticism though, and I grew up in this city.  I think SF can be very shallow, but it depends on who you know and where you spend your time.  The male dominated, startup-filled cafes in the Mission are definitely annoying at times.. its ironic that this incredible place with such diverse projects and brilliance living within it can produce such a predictable overall, wonky culture sometimes.
+ 
+Anyway, good for you for following your gut.  Your post sounds like Paul Grahams post about what cities tell you:
+http://www.paulgraham.com/cities.html
+ 
+When are you leaving?  We should get dinner again before you head off
+ 
+posted by Tristan
+ on June 17, 2008 #
+ 
+Have you considered a shorter move and a change of crowd? The people to who read books and care about things seem to live in Oakland.
+ 
+posted by Michal Migurski
+ on June 17, 2008 #
+ 
+Hey!
+ 
+Itll be good to have you back round here.
+ 
+posted by Mark Bernstein
+ on June 17, 2008 #
+ 
+I have also lived in both Cambridge (Porter Sq Harvard Sq was too loud ;) and the Bay Area. I find that there are certainly pros and cons:
+ 
+Boston:
+ 
+I liked the history, and the ability to get to places like Maine in an hour. and NYC in 3+. I liked the crazy road system as I am from London so I felt at home. I liked the people. I did find it a pain in the arse to do simple things though, and the winter. ergh.
+ 
+SF:
+ 
+It feels more like a town than a city. You have to find your niche within. It has taken me awhile to get into it. Being around so much tech can start to be a drain. Sometimes I long for the time when I was living in Madison and noone had a clue what I did ;)
+ 
+And the end of this all, I long for Boulder ;)
+ 
+Heres to you finding your dream location.
+ 
+Cheers,
+ 
+Dion
+ 
+posted by Dion Almaer
+ on June 18, 2008 #
+ 
+Ive done the Cambridge thing, and am currently doing the Bay Area thing, so I sympathize a bit. Personally, I suggest traveling a bit, and trying out cities around the world. Have some fun. :-)
+ 
+posted by Andrew Wooster
+ on June 18, 2008 #
+ 
+Well Aaron, you sound like a typical dotcommer, that came, saw, got kicked, and sent back in a body bag.  San Francisco is one of the greatest cultural melting pots, and epicenters of pop culture by far and way behind the likes of Harvard Squarefull of dull bookworms, and..well, squares.  Two-dimensionals.  Enjoy.  :)
+ 
+posted by Leaving Las Vegas
+ on June 18, 2008 #
+ 
+Your post reminds me of the (famously Bostonian) Mighty Mighty Bosstones song, Almost Anything Goes, which - if Im not mistaken - is largely about nostalgia for Boston over other another city (NYC in that case, but substitute SF and the sentiments the same).
+ 
+posted by Sam Pablo Kuper
+ on June 18, 2008 #
+ 
+Having to hear jackhammers (and noise in general) is what pushed me away from living in a city environment and into the suburbs. Peace & quiet has been absolutely wonderful for my health, stress level, happiness, and ability to work on projects.
+ 
+posted by Amit Patel
+ on June 18, 2008 #
+ 
+I live in Berkeley (across the bay from SF for those who dont know the area), and I also believe that SF is kind of superficial. Berkeley has issues too, but theyre not of the same variety.
+ 
+What I personally dont like about SF is the suffocating trendiness of all the wannabe hipsters with babies on their shoulders, attired in 70s retro-chic t-shirts with carefully made-up hair (made to look not made up) and some kind of wolf-chihuahua or shi-tzu-lhasa-apso flavor-of-the-month hybrid dog in tow.
+ 
+Lots of good stuff comes through town in the way of music though, and the variety and quality of food (for reasonable prices) in restaurants is hard to beat.
+ 
+People are pretty superficial everywhere though, especially the kind of people that think partying and dinner partying with a bunch of different people every week is the peak of existence.
+ 
+I may be wrong, and it may be the case that Cambridge is actually an intellectuals Shangri La that is unlike every other city on the planet (of SF at least), but I suspect that it may be the case that Aaron found a bunch of compatible souls over a relatively long period of time (not by going to parties or quick visits to the library) and that if he went back to Cambridge with a different body and a different name, with the persona he has now (as opposed to that he had when he formed those relationships), and did the things he has talked about doing in SF (going to the library and parties) that his experience would be much the same.
+ 
+posted by JK
+ on June 18, 2008 #
+ 
+Aaron, I am sorry about your decision. I myself decided to move to the Bay Area (right now I live in New Orleans, which is definitely not the geek or intellectual capital of the USA). Concerning East Coast intellectual dreams: I suggest to move to the real Cambridge, in UK, Eropes (I lived there for 3 months) and I guarantee that your high-browness will be satisfied, although you might still have issues with the weather. You are a very scarce type: a coder/engineer turned philosopher/human intellectual in the US. You have the analytical talent to be successful in philosophy and thereby help a discipline that is not too successful in giving people explanations overall. A lost battle I think. 
+I myself started as a biologist, then studied analytical philosophy for 5 years and now I am finally back in science and technology (a reverse direction comparing to yours) so my advice is not advice for you.
+Good luck and maybe we can meet at the SciFoo Camp again, Attila 
+PS: Oh yeah, and if some day you go to Budapest, where I was born and raised, thats in Hungary, Central Europe, Ill be happy to guide you through the intellectual scenes.
+ 
+posted by Attila Csordas
+ on June 18, 2008 #
+ 
+San Francisco is well known as a hard place to relate to  despite all thats going on and all the people seeking something. No one seems to know why. I lived in the city and surrounding areas for about 15 years, then moved to Philadelphia for work. West Philadelphia is fine, except that the whole city is gentrifying, becoming considerably more expensive and driving out good people.
+ 
+I love Harvard Square; went to college there in the 60s and will be visiting at the end of this month. Good Wi-Fi cafes have been scarce right around the Square, but they could be found. There were at least a couple in Central Square. And theres always Somerville.
+ 
+Im working on allowing online financial accounts to actually reproduce children accounts, inherit services, and evolve autonomously through community use  in an open-source project for public benefit. Email me if youre interested. I could meet in Cambridge in the three days or so after June 28, or on a later visit.
+ 
+posted by John S. Jamers
+ on June 18, 2008 #
+ 
+And it has actual weather, with real snow and seasons and everything, not this time-stands-still sun that San Francisco insists upon.
+ 
+No! No! This is like It has misery, with cold and wet and everything, not like pleasant sunshine 
+ 
+Buy a pair of sound-deadening ear-protectors to deal with the jackhammers. How anyone could consider that worth exchanging for the slushdrifted streets of Boston in winter, is beyond me.
+ 
+posted by Seth Finkelstein
+ on June 18, 2008 #
+ 
+Welcome back, Aaron. Come hang out at Berkman!
+ 
+posted by Amar
+ on June 20, 2008 #
+ 
+awww shite i just moved to sf to meet you
+ 
+posted by marius
+ on June 23, 2008 #
+ 
+Lets see. You dont like traffic delays or construction so youre moving back to live under the Big Dig? I understand not being from here and missing the place that you miss. But your SF trashing is pretty hollow. Maybe you just tend to hang out with shallow people. People dont read books in SF? Give me a break But, hey, glad to see you go.
+ 
+posted by "Dave"
+ on June 30, 2008 #
+ 
+I jumped in on this thread b/c although my partner and I live in SF, we often  discuss if another city might be better.  Interestingly, one city thats proposed as better is LA, which is stereotypically more shallow  yet not in our experience.   I think the general stereotypes dont apply and a circle of good friends creates its own microcosm effect.
+ 
+JK - I noticed your anti-dinner party comment, and wondered if you would elaborate?  One of the things we most enjoy are dinner parties - and having new people to each one can be a good thing.
+ 
+posted by david
+ on September 10, 2008 #
+ 
+You can also send comments by email.
+ 
+
+ 
+
+====================================================
+Date: June 12, 2008
+ 
+Title: Is Undercover Over?
+ 
+My latest piece for Extra! is now up:
+ 
+Is Undercover Over?: Disguise seen as deceit by timid journalists
+ 
+Its about the rise and fall of undercover journalism. Heres an excerpt:
+ 
+Undercover reporting has a storied history. Nellie Bly, famous for traveling around the world in 80 days, also did a famed investigation of the conditions in insane asylums for the New York World. Bly feigned insanity for a series of physicians before being committed to a lunatic asylum. There she documented rotten and spoiled food, freezing living conditions, frigid bathwater, abusive nurses and relatively sane fellow residents. What, excepting torture, would produce insanity quicker than this treatment? she wondered. The series, later published as the book Ten Days in a Mad-House, created a sensation, and Bly was asked to join a government investigation of asylum conditions.
+ 
+You should follow me on twitter here.
+ 
+June 12, 2008
+ 
+I liked the article and agree with the opinion that it seems to convey.
+ 
+The question running through my head while reading it, Is it really that hard not to get sued? It seems like you can be creative in your deception and double check your allegations. Furthermore, are allegations made by undercover investigations any more likely to spur a lawsuit than those made through more conventional journalism?
+ 
+posted by Alex
+ on June 13, 2008 #
+ 
+You can also send comments by email.
+ 
+
+ 
+
+====================================================
+Date: June  9, 2008
+ 
+Title: How to Promote Startups
+ 
+When people talk about how government can promote startups, there seems to be a fairly standard consensus: we need more economic inequality. Lower income and capital gains taxes provide more incentive to work, looser labor laws make it easier to fire non-performers, and large private wealth funds provide investment capital.
+ 
+But having been through a startup myself, I think theres much more you can do in the other direction: decreasing economic inequality. People love starting companies. You get to be your own boss, work on something you love, do something new and exciting, and get lots of attention. As Daniel Brook points out in The Trap, 28% of Americans have considered starting their own business. And yet only 7% actually do.
+ 
+What holds them back? The lack of a social safety net. A friend of mine, a brilliant young technologist whos been featured everywhere from PBS to Salon, stayed in academia and the corporate world while all of her friends were starting companies and getting rich. Why? Because she couldnt afford to lose her health insurance. Between skyrocketing prices and preexisting condition exclusions, its almost impossible for anyone who isnt in perfect health to quit their job. (I only managed because I was on a government plan.)
+ 
+Anyone with children is also straight out. Startup founders tend to be quite young, in no small part because no one can afford to support a family on a startup founders salary. But if we had universal child care, that would be much less of an issue. Parents would be free to pursue their dreams, knowing that their children were taken care of. And universal higher education could let parents spend their savings on getting a business started, instead of their childrens tuition. Plus, itd give many more kids the training and confidence they needed to start a company.
+ 
+And those large private wealth funds that result from growing inequality? A real problem for startup founders is that theyre too large. It used to be that you could borrow a couple thousand dollars from friends and neighbors to get your business off the ground. Nowadays, theyre too busy trying to make ends meet to be able to afford anything like that. Meanwhile, those large wealth funds I mentioned are now so big they can only afford to invest in multi-million dollar chunks  much more than the average founder needs, or can even justify. And the large investments come with large amounts of scrutiny, further narrowing the recipient pool.
+ 
+But imagine if the government provided a basic minimum income, like Richard Nixon once proposed. Instead of having to save up (increasingly difficult in a world in which the only way to survive is on credit card debt) or borrow money to stay afloat, you could live off the government-provided income as you got things started. Suddenly having to quit your job would no longer be such a huge leap  thered be a real social safety net to catch you. (Not to mention if those labor laws some people want to loosen required your old job to take you back if things didnt work out.)
+ 
+Of course, there is some truth to the standard proposals. Some startup founders are encouraged by dreams of financial security, and high taxes can make that dream more elusive. And complex labor regulations can make it difficult to get new companies off the ground. But its not an issue of whether we should have taxes or labor laws  its an issue of how theyre targeted.
+ 
+Estate taxes on inherited fortunes would have basically no impact on startup founders, but could go a long way to funding a social safety net. And since most startups are acquired as stock, income taxes are basically irrelevant  its really capital gains tax that gets applied. Theres no reason the government couldnt apply a lower capital gains tax to startups that get acquired than they do to the shares of publicly-traded companies that large investors trade.
+ 
+The same is true for labor laws: preventing large companies from firing people 
+at random can provide some much-needed stability to their lives, especially if theyre saving up money in the hopes of going into business themselves. But theres no reason such laws also have to be applied to small startups, where the company is more likely to go out of business than to fire you.
+ 
+Look at social democratic Europe, where these policy prescriptions have been tried. While theres much less of a culture of entrepreneurship and only 15% of Europeans think about starting their own company, nearly all (14.7%) of them actually go ahead and do it.
+ 
+The fact is, if governments really want to promote startups and the economic innovation they bring, they shouldnt listen to the standard refrain of cut taxes and deregulate. They need to start rebuilding the social safety net, so that their citizens know that if they go out on a limb and try something risky, someone will be there to catch them if things dont work out.
+ 
+Thanks to Daniel Brooks book The Trap: Selling Out to Stay Afloat in Winner-Take-All America for suggesting this line of argument and providing the statistics.
+ 
+You should follow me on twitter here.
+ 
+June  9, 2008
+ 
+I definitely would have quit my job and started my own company long ago if I had access affordable health insurance outside work. But Im not entirely sure that would have been a good decision. While I agree with everything you say here, it still feels like there are some subtle positive aspects of the current environment we may lose with a safety net, e.g. forcing better planning of startups by making them contingent on better life planning. I dont imagine those are anywhere near worth the pitfalls of the current environment, but it would be good to consider them further to ease the transition.
+ 
+posted by Scott Reynen
+ on June  9, 2008 #
+ 
+hi Aaron, this is a very interesting entry! you might be interested by the debates and analyses of the idea of an universal unconditional income, there are several authors discussing it but the books Real Freedom for All by Philippe Van Parijs, and Redesigning Distribution edited by Bruce Ackerman, Anne Alstott and Van Parijs (avail. for free online), are worth reading.
+ 
+posted by pierre
+ on June  9, 2008 #
+ 
+Good post.
+As an entrepreneur in Israel, having high quality government funded healthcare has certainly helped me bootstrap my current startup. My calculations would have been very different if I had to take health insurance into account.
+ 
+Im not sure though that your conclusion regarding Europeans (where almost all who consider starting a business actually do it) is necessarily correct. 
+Maybe in a culture where entrepreneurship isnt as glamorous as it is in the US, those who profess that they consider starting a business are only the real die-hard born-to-be-entrepreneurs, essentially the same people who manage to overcome the hurdles in the US and do their own thing at all costs? 
+In a place like California (or Israel for that matter), where entrepreneurship is admired, many more people consider it, or would tell you so in a survey, even though theyre not really serious. I have friends who keep talking about starting their own business, but would probably never do it - not because they lack the wherewithal, but because they havent really got it in them.
+ 
+Moreover, starting a company in most countries of western Europe is much harder than it is in the US. It takes financial commitment up-front, as well as going through a lot of bureaucracy. The state, while it provides the social safety net, puts serious hurdles in the would-be business owners way, and you could argue that these are just as bad as the lack of a safety net.
+ 
+posted by Elad Kehat
+ on June  9, 2008 #
+ 
+I think you miss the main problem: sheer time availability.  See my full response here:
+ 
+http://www.cincomsmalltalk.com/blog/blogView?showComments=true&printTitle=Why_so_few_do_startups&entry=3390474479
+ 
+posted by James Robertson
+ on June  9, 2008 #
+ 
+Your voice is getting stronger, Aaron. Youre doing good work.
+ 
+URLS for the books Pierre mentions above:
+ 
+Redesigning Distribution
+ 
+Real Freedom For All
+ 
+posted by Bob Erb
+ on June  9, 2008 #
+ 
+If you love Iceland so much why dont you go and live there!!111eleventy!1
+ 
+As a longtime professional tracker-of-startups, I note without surprise how many of mine are in Australia, Ireland and Israel now.
+ 
+Scott Reynan: if US entrepreneurs are indeed motivated by fear of bankruptcy, most of them are behaving in remarkably self-defeating ways.
+ 
+posted by Yatima
+ on June  9, 2008 #
+ 
++1, Aaron.
+ 
+Im a parent of 2, and its frustrating as all hell that I cant work out a way to start a startup without putting my family at risk.
+ 
+Its fairly well established that no angel or VC investor will want to look at you until youve at the very least finished a prototype, more likely not until youve finished the product, and even more likely not until youve shown traction by attracting a decent number of users.  In the meantime, that probably means a good year of going without income in order to get to that point.  Whos got the kind of money to keep a family afloat during that time?!?!?!?  Some of us werent born with rich family or friends.
+ 
+I havent figured a way out of this conundrum yet, but Im damn well going to because I refuse to go my whole life working for someone else.  (Most likely in order to fund this Ill have to sell my home, and rent in a cheaper location for a while.)
+ 
+But it sure is good to hear someone going against the conventional wisdom (aka bullshit) on this issue and telling it like it is, Aaron.
+ 
+Meritocracy, my ass!  The startup world is a plutocracy, pure and simple.  If you dont have someone with big bucks behind you, youre shut out.  The only people whose merit matters are the ones who are able to pony up the ante.
+ 
+posted by DAR
+ on June  9, 2008 #
+ 
+(A pingback for some of the discussion on hacker news.)
+ 
+I have to say I strongly agree with this. The personal risks I am taking to start a company, are a little crazy, and Ive had no shortage of people telling me so. And I know so many people who are waiting for their life to be settled and stable before they begin. This is one of the main social influences repressing our potential founders.
+ 
+http://news.ycombinator.com/item?id=213181
+ 
+and
+ 
+http://news.ycombinator.com/item?id=213210
+ 
+posted by Danielle Fong
+ on June  9, 2008 #
+ 
+To DAR:
+ 
+What makes you think the rest of us owe you a living?  In life you get to make choices, and you value your family above the pursuit of a startup.  Thats one possible choice.  Why should the rest of us have to pay to give you infinite choices?
+ 
+You might ponder TANSTAAFL.
+ 
+posted by James Robertson
+ on June  9, 2008 #
+ 
+Yes, doing a startup is hard for a family, but what about the plan where one spouse gets a corporate job, and the other starts a business?
+ 
+posted by Don Marti
+ on June  9, 2008 #
+ 
+I think one reason Europeans are less likely to consider starting their own companies is that employment conditions even in low-end jobs tend to be better here (longer holidays, higher minimum wages, etc).
+ 
+posted by Sam Pablo Kuper
+ on June 10, 2008 #
+ 
+Aaron,
+ 
+How many of these policies would you support even if they had zero impact on startups?  I ask because all your suggestions that are particular to startups actually involve the standard refrain of cut taxes and deregulate
+ 
+Things that are good for everyone are good for everyone but I cant but help notice that your more socialist suggestions are about people not like you (help families and older people, stick it to big business, etc) and your more free market suggestions apply to areas where you have local experience.
+ 
+posted by Jack Diederich
+ on June 10, 2008 #
+ 
+Is this satire? Because I really dont see how it could be anything else, except perhaps insanity.
+ 
+The problem with providing these sorts of benefits to everyone is that it removes nearly all extrinsic motivations for work. Unfortunately, I believe that youll find that the fraction of the human population that is intrinsically motivated to work is by no means large enough to support the entire populationand if this is the case, then the reforms you propose would eventually cause the collapse of civilization (assuming that someone did not eventually stop the madness).
+ 
+posted by Dave
+ on June 10, 2008 #
+ 
+Yes, Nixon must have been proposing the collapse of civilization. That must be why Denmark and Sweden are no longer on the map.
+ 
+Give me a break.
+ 
+posted by Aaron Swartz
+ on June 10, 2008 #
+ 
+Aaron,
+ 
+How many start-ups are coming out of Denmark and Sweden?  Adjusted for population, are there more or less than are coming out of the US?
+ 
+-Mark
+ 
+posted by Mark
+ on June 10, 2008 #
+ 
+Aaron,
+ 
+Pardon my ignorance, but if one is young ind relatively healthy (and you better be if you are going to work in a startup), what does one need health insurance for?
+ 
+posted by Nickolai Leschov
+ on June 11, 2008 #
+ 
+Great minds move in
+ 
+The Basic Income Guarantee is championed eloquently by Martin Luther King, Jr.
+ 
+http://www.cooperativeindividualism.org/king-martin-luther_on-poverty.html
+ 
+Its from his last book.
+ 
+Love.
+ 
+posted by William Loughborough
+ on June 11, 2008 #
+ 
+Why do you think people who start companies need to be relatively healthy? My health problems never affected my startup work.
+ 
+posted by Aaron Swartz
+ on June 11, 2008 #
+ 
+I agree with some of your arguments, particularly the one about health insurance. I mean, survive you must, and fear of dying doesnt help startup founders to be bold.
+ 
+But I also know how incredibly hard it is in many european countries to get your own business started, and to a large degree it is hard because of the safety net that others enjoy.
+ 
+That famous european safety net has one salient characteristic. Its much better for those groups who are better organised and who have a long tradition of being close to the government and the political parties. Pensioners, workers in well unionised sectors, farmers, civil servants, railway workers, medical doctors, teachers, etc.
+ 
+As a startup founder, almost by definition, you dont belong to any of those groups. When I started my first business, I had to pay hugely more social security contributions and taxes than any 9 to 5 worker (relative to my meagre income). Effectively, I had to pay for their safety net, a safety net that partly excludes entrepreneurs. If I couldve just kept my own money, pay nothing and get nothing, I wouldve been better off.
+ 
+I agree that a basic safety net that catches you when you fall is a good thing. But that european safety net catches like 80% of the people, costs almost 50% of our income and fails many of those who actually need it. I wonder if that is an automatic consequence of democratically organised redistribution.
+ 
+posted by fauigerzigerk
+ on June 11, 2008 #
+ 
+To DAR:
+ 
+What makes you think the rest of us owe you a living? In life you get to make choices, and you value your family above the pursuit of a startup. Thats one possible choice. Why should the rest of us have to pay to give you infinite choices?
+ 
+You might ponder TANSTAAFL.
+ 
+Dude, I think you are either totally messedup or just plain trying to garner some attention. Indendently speaking, I can understand and appreciate your statement. Having read DARs comment though, I fail to see the connection that you are trying to imply. The mans just trying to vent his frustration that the current attitude of VCs and such like is such that it does not allow for any leeway of risk such as having a family. TANSTAAFL indeed. For you, I would have to respond - GTFOH*
+ 
+*Get the Finnegan outta here.
+ 
+posted by Timmy Jose
+ on June 12, 2008 #
+ 
+To DAR:
+ 
+What makes you think the rest of us owe you a living? In life you get to make choices, and you value your family above the pursuit of a startup. Thats one possible choice. Why should the rest of us have to pay to give you infinite choices?
+ 
+You might ponder TANSTAAFL.
+ 
+@ Robertson
+ 
+Dude, I think you are either totally messedup or just plain trying to garner some attention. Indendently speaking, I can understand and appreciate your statement. Having read DARs comment though, I fail to see the connection that you are trying to imply. The mans just trying to vent his frustration that the current attitude of VCs and such like is such that it does not allow for any leeway of risk such as having a family. TANSTAAFL indeed. For you, I would have to respond - GTFOH*
+ 
+*Get the Finnegan outta here.
+ 
+posted by Timmy Jose
+ on June 12, 2008 #
+ 
+Great post, Aaron. By the way, not exactly start-up related, but similar reasons were a major economic factor driving me to abandon my civil-liberties activism. It was just too dangerous to risk lack of employment.
+ 
+posted by Seth Finkelstein
+ on June 12, 2008 #
+ 
+Your intro paragraph infers it all: we need more economic inequality. Lower income and capital gains taxes provide more incentive to work, looser labor laws make it easier to fire non-performers, and large private wealth funds provide investment capital. <br/>
+This statement is not economic theory: not that you state it is, but rather that mainstream business and politics tell us it is.  This construct is barely even economic hypothesis; not even well founded wishful thinking. Rather wolfish greed wrapped in lambskin. <br/>
+I have been an IT entrepreneur for 20 years and never consider those economic principals when making my start-up decisions.  I have only accomplished my most recent startup, ShellShadow because I am living in China now and have economic leverage to do so on a tight budget.<br/>
+The theory that people create due to economic inequality is pure bunk.  People can get very rich due to economic inequality but it has little to do with creativity or a desire to create.
+ 
+posted by Jon Hancock
+ on June 12, 2008 #
+ 
+Aaron:
+ 
+Lack of adequate healthcare affects some 25 million Americans, a significant portion of them, like me, who are working citizens who contribute to the system in the form of taxes, and sometimes, cash payments for medical services needed. I think its shameful that we cant even get a basic level of standard medical protection for our nation all because of greed, greed, greed. I feel for all those people who find themselves in the position of being forced to chose bankruptcy due to a pressing illness.
+ 
+posted by Anthony Kuhn
+ on June 12, 2008 #
+ 
+The safety net is a good pointyou are right, it was previously friends and family, but today most are tapped out.
+ 
+However, instead of the government stepping in, what if friends, family, spouses, and want-to-be entrepenuers stopped promising away their entire current and future income (via mortgages and loans) so that they could go back to being the social safety net that they once were?
+ 
+My grandparents at several times lived with other family, and several times had other family live with them, while starting out. And so while they used mortgages and loans, it wasnt so early and so leveraged that they could no longer be a safety net for others.
+ 
+Granted, their lifestyle was not what most people likely expect these daysbut that is a trade off everyone is free to make, lower your lifestyle today and have more choices, or raise your lifestyle today and have less choices.
+ 
+(Basically, DAG is righthe should sell the house he can only afford on a 30-year corporate salary and rent in a cheaper location. That is economic tradeoffs and it works much better when individuals make these decisions for themselves instead of the government deciding for the whole citizenship that it knows best.)
+ 
+I also wonder how much the lack of a safety net is real or just perceived due to our individualistic, self-reliant culture.
+ 
+Granted, I admire your goals, but good goals doesnt mean that, once in place, a program will automatically acheive those goals. Goals vs. incentives is discussed nicely in Basic Economics by Thomas Sowell.
+ 
+posted by Stephen
+ on June 12, 2008 #
+ 
+Im surprised you didnt mention behavioral economics to explain the statistics. Isnt it obvious that the biggest barrier to start-ups is risk aversion? When I tell people Im working for a startup, the vast majority of responses is oooh, risky!.
+ 
+posted by Andrey Fedorov
+ on June 14, 2008 #
+ 
+You can also send comments by email.
+ 
+
+ 
+
+====================================================
+Date: May 19, 2008
+ 
+Title: The False Consciousness Falsehood
+ 
+American intellectual life has a large number of ways of responding to an argument without actually addressing its substance  namecalling in other words. You can say that someone is blaming the victim or spinning a conspiracy theory or assuming people are stupid or that theyre subject to false consciousness.
+ 
+Most of these are kind of transparently silly, but even otherwise smart people seem to think the false consciousness charge has some heft to it. The argument is never fully spelled-out, but the argument seems to be that to think that people are systematically mistaken about their own interests is the kind of crazy idea that only vulgar Marxists would believe and, furthermore, it requires assuming that people are stupid and explaining how youve been able to see past the illusion.
+ 
+Well, Im personally not under any illusion that providing a rational explanation is going to stop people from leveling this charge, but I figure one ought to, if only to set the record straight.
+ 
+Lets begin with a parable  a simplified case that will at least establish whether some of these arguments are logically true. Imagine a new regime comes to power that decides to imprison everyone with red hair. They insist that there is nothing amiss about this  they were elected democratically, and furthermore, everyone imprisoned is still allowed to vote. But inside the prisons, they only permit limited contact with the outside world. Most prisoners only watch the one prison-provided news station which is systematically biased, constantly suggesting that the Purple Party is in favor of additional rights for red-haired people while their opponents, the Yellow Party, just used the red-haired issue for pandering. (Anyone whos watched, say, Fox News discuss black issues will know how this is possible.) The result is that when election time rolls around, the majority of red-haired prisoners vote for the Purple Party candidate who gets into power and provides no new rights for them.
+ 
+Call it false consciousness or not, I think its perfectly reasonable to look at this situation and say while the red-haired prisoners are not stupid, they are systematically mistaken, which is leading them to act against their own interests. If they knew the truth they would vote for the Yellow Party, the party which wants to take steps to get them out of prison, instead. Furthermore, its possible to imagine that there are some prisoners who, through one means or another, have learned this and thus are able to see this situation while the other prisoners do not. (They try to tell the other prisoners whats going on, but they keep getting labeled conspiracy theorists.)
+ 
+Now obviously vast portions of America are not imprisoned. But most people do get their news from a small number of sources and I think everyone would agree that, in one way or another, these sources are systematically biased. (You can argue about which way theyre biased or whether it makes a difference, but I think its pretty clear that all the major news sources share a general conception of what is news and what isnt.) So why is it so implausible that something similar is going on?
+ 
+The major difference between the two scenarios is that in the first, people were basically forced to watch the biased news, while in the real world they have lots of other alternatives. But Im not sure this matters as much as it might seem at first.
+ 
+First, most people have busy lives that dont revolve around the news or politics and thus are going to get the news in the most convenient form they can. For most people, this is typically television or the newspaper. But starting a new television station or newspaper is very expensive, especially if you want it to have wide reach, and the only projects that can get funding and advertising are those that buy into at least some of the systematic biases. So for most people, there simply isnt a better alternative when it comes to the formats they want.
+ 
+Second, even if someone gets their news from the Internet or another source where getting started is less expensive, they may not know about the alternatives. If you grew up with your parents reading the New York Times you may simply live your life checking in on nytimes.com, without ever stopping to wonder whether the news you were getting was systematically biased and whether there was some more preferable alternative.
+ 
+Again, just as there was no way for the prisoners to know they were being lied to, its not really reasonable for the average person to figure out that theyre getting biased news if the only news they read comes from biased sources.
+ 
+Now Im not arguing here that this idea is true (that would require more real-world evidence), merely that its possible. The fact is that we live in a world where most people get their information about whats going on from a very small number of sources which tend to report largely the same things in the same way. This seems like a rather important fact of life and I think we ought to stop dismissing suggestions that it might have some negative effects on people out of hand.
+ 
+You should follow me on twitter here.
+ 
+May 19, 2008
+ 
+The argument is never fully spelled-out, but the argument seems to be that Sounds like a strawman. Do you have any actual examples of this argument being made?
+ 
+posted by Scott Reynen
+ on May 19, 2008 #
+ 
+I think one major reluctance to accepting conspiracy theories on a large level is that, to reference a previous post, people dont believe that the mechanism exists.  If there was media bias of a malevolent sort, then there must be a conspiracy to construct and enforce that bias.  Editors punish their subordinates.  Editors themselves must be informed of what the accepted lines of thought are.  People have proposed mechanisms for this, have documented actual processes.  But its not clear that those form the bias, because for everyplace that has such hints of conspiracy there is a large number of places that clearly have no conspiracy (often just for lack of interestingness).
+ 
+Another aspect is none of this seems new.  Its not like the media was crazy progressive and then this darn media consolidation came along and ruined it.  Is this the product of a long line of conspiracies?  The masons?
+ 
+Im more apt to see this as a phenomena than a conspiracy.  That is, accepting that people can have false beliefs on a large scale doesnt require a malevolent actor.  Theres lots of cases of this that are rather obvious in retrospect.  Flat Earth  that people have at times widely believed the Earth to be flat is not a sign of wide stupidity.  Our intuitions can be reasonable while also being incorrect.  Revealing the truth does not automatically convert everyones belief.
+ 
+The mechanisms by which we come to other beliefs is probably different than something so fact-based as the nature of the surface of the Earth.  But theres obviously more involved than simple rationality, especially because many value-based beliefs are rooted in underlying motivations that cant really be rational.
+ 
+posted by Ian Bicking
+ on May 19, 2008 #
+ 
+Hope all is well, and that your health has improved after that discouraging post from a few months ago.  I think what youre talking about is whats plausible rather than whats logical or rational. It would be just as valid to spin a self-serving parable demonstrating how the idea of false consciousness fails to explain events, and wed have learned as much from the exercise. I also dont understand the point of the conclusion: that its merely possible the idea of false consciousness can be valid, given an impressive stack of assumptions. And?
+ 
+posted by sierra
+ on May 20, 2008 #
+ 
+With reference to a previous post:  Im not sure what counts as a mechanism.  How about putting oilmen in charge of regulating the oil business and Mideast policy?  How about controlling the flow of informatione.g. concealing M3 monetary levels, refusing to allow photos of troop caskets, putting the financing apparatus for an entire foreign adventure (often referred to as a war) off budget, selling off public spaces, lands, and airwaves?
+ 
+Aaron, Ive only just discovered your blog and am intrigued by it.  Drop by over at http://wisdomofthewest.blogspot.com/  You might find something interesting.  My latest series is on the phenomenon of crowds and swarms and I happened onto your site while searching the stupidity of crowds.
+ 
+Best,
+Jim H.
+ 
+posted by Jim H.
+ on May 21, 2008 #
+ 
+Reading the post again, the first couple of paragraphs strike me as confusing. The first states that saying someone is subject to false consciousness is a way of avoiding the substance of any argument hes making  namecalling in other words. The second says essentially the opposite: that criticizing this assignment of false consciousness is an invalid form of namecalling, i.e., by labeling the idea of false consciousness as crazy or Marxist. (The first paragraph only makes sense in the context of the rest of the post if it ends with something like: or assigning false consciousness to people.)
+ 
+These opening paragraphs are amusing as well. After being told this charge constitutes namecalling, we learn it is transparently silly. Unintelligent people can of course be expected to make such a charge, but even otherwise smart people make it as well. Regardless, youre not under any illusion that providing a rational explanation is going to stop people from leveling this charge. So: silly, stupid, and irrational. Nope, no namecalling here.
+ 
+posted by sierra
+ on May 22, 2008 #
+ 
+Aaron
+ 
+You should check out the blog Unqualified Reservations.  He makes a pretty convincing case that the biases in the media are indeed systematic.
+See
+http://unqualified-reservations.blogspot.com/2007/06/separation-of-information-and-security.html
+and
+http://unqualified-reservations.blogspot.com/2007/06/why-theres-no-such-thing-as-liberal.html
+ 
+Whats interesting is that you dont need a conspiracy theory to get the result of conspiracy theory.  All you need to do is look at the selection process.  Can an economics professor be fired for being wrong?  Nope.  But a professor can get more grants and power by justifying the prevailing political powers.
+ 
+Were Bill Kristol and Tom Friedman fired for being wrong about the war in Iraq?  Bill Kristol was promoted to the NY Times editorial page!
+ 
+If the media and educational system do not seem to be promoting or firing people based on whether they get things right and wrong, why would we expect the process to produce accurate results?
+ 
+posted by Patrick
+ on May 23, 2008 #
+ 
+You have some truly bizarre spam just above this comment.
+ 
+I agree with Sierra that the first couple of paragraphs are muddled.  From the rest of your essay, youre apparently claiming that the charge of false consciousness should be taken seriously in a debate.  But thats not how you start off.
+ 
+I think it is possible for people to be systematically mistaken about this or that, and its reasonable to discuss that possibility in itself, as you start to do here.
+ 
+But in an ordinary discussion about some other subject, accusing your opponent of false consciousness is not an argument, its a failure to argue.  Its an example of the logical fallacy poisoning the well.  Reasonable people are right to reject it in those cases.
+ 
+posted by Matt C
+ on June  9, 2008 #
+ 
+Matts comment made me wonder what kind of criteria would make the idea of false consciousness valid. I think it would require a good deal of ignorance or physical coercion, and would be least likely in an information-saturated modern society. E.g., Ive heard many women in strict Islamic cultures express strong approval for their burkas, but its valid to assume (if theyre not lying outright) thats false consciousness resulting from the constant threat of beating or worse if they dont wear a burka, or perhaps from having no accurate information on societies where women wear whatever they want. The flip-side, to use an obvious example: In this culture, women arent beaten for being pro-choice on abortion, and they have plenty of pro-choice information available to them, so its correspondingly invalid to suggest pro-life women suffer from false consciousness. Aarons parable is unconvincing because it involves taking great pains to limit available information, which simply is not our situation. The idea that people with huge numbers of alternative media sources available to them are going to keep reading the New York Times out of blind habit is contradicted by the latters stock price, and by the sudden, spontaneous popularity of sites like YouTube, Facebook, you name it.
+ 
+Theres an excellent book called Sick Societies, by the anthropologist Harold Edgerton. Ostensibly its a critique of the idea that primitive cultures are peaceful and harmonious, and that all sorts of horrifying (to us) practices are adaptive in the evolutionary sense. But the more interesting implication is the possibility of determining whether aspects of our own culture are objectively dysfunctional, criteria he says may be borrowed from psychology. Im skeptical how rigorous that framework would be, but its an interesting book thats relevant to the question, if you care to take a look.
+ 
+posted by sierra
+ on June 15, 2008 #
+ 
+You can also send comments by email.
+ 
+
+ 
+
+====================================================
+Date: May 14, 2008
+ 
+Title: Tectonic Plates and Microfoundations
+ 
+In 1915, Alfred Wegener argued that all the continents of Earth once used to fit together as one giant supercontinent, which he later named Pangea. As Wikipedia summarizes:
+ 
+In his work, Wegener presented a large amount of circumstantial evidence in support of continental drift, but he was unable to come up with a convincing mechanism. Thus, while his ideas attracted a few early supporters  the hypothesis was generally met with skepticism. The one American edition of Wegeners work  was received so poorly that the American Association of Petroleum Geologists organized a symposium specifically in opposition.  By the 1930s, Wegeners geological work was almost universally dismissed by the scientific community and remained obscure for some thirty years.
+ 
+Today, of course, every schoolchild knows about Pangea. But for a long time the theory was dismissed, not because it lacked evidence or predictive power  it explained why the shapes of the continents fit together, why mountain ranges and coal fields lined up, why similar fossil were found in places separated by oceans, and so on  but because Wegener had no plausible mechanism.
+ 
+A similar problem happens in the social sciences. Paul Krugman recently noted that while Larry Bartels (in his new book Unequal Democracy) provides solid, convincing evidence that Republican presidents systematically preside over slower growth and increasing inequality, most social scientists dont believe him because we havent yet identified the mechanisms. Krugman:
+ 
+Now, Im a big Bartels fan; Ive known about this result for quite a while. But Ive never written it up. Why? Because I cant figure out a plausible mechanism. Even though I believe that politics has a big effect on income distribution, this is just too strong  and too immediate  for me to see how it can be done. Sure, Republicans want an oligarchic society  but how can they do that?
+ 
+Bartels, for his part, argues that providing the mechanisms isnt his job  his goal is to highlight the phenomena and encourage many others to research the mechanisms:
+ 
+How do presidents produce these substantial effects?
+ 
+One of my aims in writing Unequal Democracy was to prod economists and policy analysts to devote more attention to precisely that question. Douglas Hibbs did important work along these lines  He found that Democrats favored expansionary policies  while Republicans endured and sometimes prolonged recessions in order to keep inflation in check. (Not coincidentally, unemployment mostly affects income growth among relatively poor people, while inflation mostly affects income growth among relatively affluent people.) In recent decades taxes and transfers have probably been more important. Social spending. Business regulation or lack thereof. And dont forget the minimum wage. Over the past 60 years, the real value of the minimum wage has increased by 16 cents per year under Democratic presidents and declined by 6 cents per year under Republican presidents; thats a 3% difference in average income growth for minimum wage workers, with ramifications for many more workers higher up the wage scale. So, while I dont pretend to understand all the ways in which presidents policy choices shape the income distribution, I see little reason to doubt that the effects are real and substantial.
+ 
+When it comes to addressing such arguments more generally, the most famous commentator is Jon Elster. In his classic article Marxism, Functionalism, and Game Theory, he insists:
+ 
+Without a firm knowledge about the mechanisms that operate at the individual level, the grand Marxist claims about macrostructures and long-term change are condemned to remain at the level of speculation.
+ 
+(To be fair, Elster doesnt make this as a general argument, but his vehemence has led some of his followers to suggest that it is.)
+ 
+To be clear, I think discovering mechanisms is important work. All Im arguing is that it shouldnt be a necessity for believing in a theory. Instead, I believe its an irrational side-effect of an emotional distaste for gaps in knowledge.
+ 
+As evidence, let me note that such demands for mechanisms never go more than one level deep. Nobody has ever said, Well, your theory that people are motivated by greed is all very nice, but I just cant believe it until you can explain how greed is manifested in the brain. Neuroscience is obviously the microfoundation of psychology, but psychological theories are regularly accepted without neuroscientific microfoundations.
+ 
+In general, it seems like such commentators support a double-standard. Theories with mechanisms should be judged by their fit with the evidence and predictive power. Theories without mechanisms should be judged by the evidence and predictive power and whether you can think of any plausible mechanisms. I dont see how this can be justified. Theres no reason mechanism should be privileged in the assessment of knowledge; things are true or false, even if we dont know why they are true or false.
+ 
+Indeed, it we typically only investigate the causes of phenomena once were convinced that they exist. (Elster admits as much in Explaining Social Behavior, noting that establishing a phenomenas existence is the first step towards explaining it.) So lets stop making the mistake of not believing things are true because we dont know how they happen.
+ 
+You should follow me on twitter here.
+ 
+May 14, 2008
+ 
+Without a mechanism, how can we distinguish between cause and effect?  Perhaps people turn to Republicans because of other actually causal phenomena.  And frankly, in any social situation, causality just wont be there  too many feedback loops and too many independent actors.
+ 
+If all someone is arguing for is correlation, then thats a rather boring thing to argue about.  Causation is the thing that is exciting.
+ 
+Even causation can be a little boring.  Causation that can be effected and changed, now that is interesting.
+ 
+The scientific approach then would be to empirically determine what can cause change.  What are electrons, or protons, or quarks?  Eh, who knows, but we know how we can manipulate things with them, how we can see the side effects.  Social theory often seems more interested in what these things are, as though there is some value to the thing itself, and not so interested in what can be done.
+ 
+posted by Ian Bicking
+ on May 14, 2008 #
+ 
+You seem to believe that not having a mechanism limits you to making claims about correlation, not causation. Thats not true at all. Imagine someone gave you a red button and pressing it caused a man to shout yap! You can clearly establish a causal connection  do double-blind tests if you have to  even if you have no idea how it makes the man say that.
+ 
+posted by Aaron Swartz
+ on May 14, 2008 #
+ 
+I would say its sometimes not an easy task to figure out whats true but unexplained, what seems to be true but is a thinking error, whats lies that are just widely repeated, whats correlation but not causation, whats finding spurious coincidences, etc.
+ 
+Yes, things are true or false - but you dont know which is which beforehand.
+ 
+Politics can be especially hard, since there are people who have as their jobs making the false seem true, and the true seem false.
+ 
+posted by Seth Finkelstein
+ on May 14, 2008 #
+ 
+Interesting post, which I generally agree with.  But this In general, it seems like such commentators support a double-standard is incorrect.
+ 
+Theres one standard: Theories should be judged by the evidence and predictive power and whether you can think of any plausible mechanisms.  It just happens that for theories with mechanisms you can, in fact, think of plausible mechanisms.
+ 
+Otherwise its like arguing  a double-standard. Theories without evidence are to be judged by their predictive power and whether you can think of any evidence.  Theories with evidence are to be judged by their predictive power alone.
+ 
+posted by David Montgomery
+ on May 14, 2008 #
+ 
+I agree that this is an interesting correlation, and in general that we should look for mechanisms
+ 
+But at the same time we should always worry that the effect might not exist. For this one I know of three objections:
+ 
+It needs a one-year lag between president and income. Thats not implasible but its one more parameter.
+ 
+It uses pre-tax family income, from income tax I think? This is somewhat succeptible to adjustments to minimise tax paid. Higher taxes can scare the rich into sheltering income somehow. (I think this is the same data that leads to an underestimate of inequality in the 70s, for this reason.)
+ 
+Werent the republicans supposed to be the party of fiscal prudence, earlier in this data set? In other words the categories shift over time.
+ 
+posted by improbable
+ on May 15, 2008 #
+ 
+Shame on you, Aaron. You should know better than to look for awkward correlations between enormous generalizations.
+ 
+I dont know enough to argue, but even if there is a correlation between Dems and progress, we should be careful what you do with such correlations.
+ 
+Consider one of those old hand-powered water pumps. Observing someone operating the pump would lead you to conclude that there is a clear correlation between pushing down on the handle and water coming out. Surely, we would be tempted to conclude, there is no point to lifting the handle at all. To maximize the amount of water we get, we should just sit on the handle.
+ 
+Our economic and political systems are much more complicated than we have so far been able to comprehend, and looking for correlations between changing political labels and imprecise economic measurements is silly.
+ 
+posted by Andrey Fedorov
+ on May 17, 2008 #
+ 
+Just FYI, the time-stamp on comments seems to be ~2 days off.
+ 
+posted by Andrey Fedorov
+ on May 17, 2008 #
+ 
+People weigh a lot of factors when deciding whether a theory is plausible.  If you have a demonstrated mechanism, that makes a theory more plausible than if youve just imagined up a possible mechanism.
+ 
+Its not irrational to include it in the factors weighed, even if it would be irrational to make it a be-all-and-end-all criterion for plausibility.
+ 
+posted by 
+ on May 18, 2008 #
+ 
+Maybe a concrete example would help.  If my computer crashes while Im depressed, I dont even seriously consider the possibility that it did so because Im depressed.  If it does so 10 times, and none when Im cheerful, then I start to wonder, but again, suspect that Im missing something else thats actually causing it.  If it happens 1000 times, and none when Im cheerful, and I cant find any more plausible causes, then I start to accept that its caused by my depression, even though it seems unlikely, i.e. despite the lack of plausible mechanism.
+ 
+posted by 
+ on May 18, 2008 #
+ 
+I write about medical research. Here, people are more likely to believe a drug works if a plausible mechanism is known. But this is almost entirely because a plausible mechanism gives a boost to difficult decision-making under uncertainty. If there is clear empirical evidence, then people will use an important drug whether any mechanism is available or not.
+ 
+Thanks for letting me know about Unequal Democracy, and the strong evidence of a Democratic/Republican difference. Clearly presidents can do a lot to mess up the country. If they can do it in part by changing widespread public attitudes and assumptions (as seems plausible), then the time frame to make actual changes could be a day or less. Of course the economic statistics will need some time to catch up.
+ 
+posted by John S James
+ on May 20, 2008 #
+ 
+You can also send comments by email.
+ 
+
+ 
+
+====================================================
+Date: May 13, 2008
+ 
+Title: Simplistic Sociological Functionalism
+ 
+(I thought I should talk about the other form of functionalism for a change.)
+ 
+Often sociologists notice a pattern in which certain attributes of a social system fits well with a particular social structure. To take an example I have at hand, Rosabeth Moss Kanter notes that because a secretary has access to facts that could embarrass her boss, its convenient for the boss that the secretary is entirely dependent upon him for wages and status.
+ 
+Unfortunately, these claims are often phrased as saying X causes Y. Heres how Kanter does it:
+ 
+The possibilities for blackmail inherent in [a secretarys] access  to the real story behind the bosss secrets  made it important that she identify her interest as running with, rather than against, his. Thus, forces were generated for the maintenance of a system in which the secretary  was to find her status and reward level dependent on the status and, hence, success of her boss. (Men and Women of the Corporation, 82)
+ 
+Note that, although she is unusually careful to hedge her comments (made it important, forces were generated, maintenance of a system) Kanter is making a particular historical claim here: the secretary could blackmail, which pushed the boss to tighten control. But this is not the type of claim that Kanter, whos research consisted mostly of direct observation of present-day offices, is likely to have any real evidence for.
+ 
+Making such claims is problematic, both because most sociologists dont really know whether they are strictly true, and because they lead Jon Elster to show up at your house and yell at you for hours. But both problems can be easily avoided: simply rephrase such comments to describe the phenomena as effects rather than causes.
+ 
+Instead of saying a secretarys ability to blackmail leads bosses to tighten their grip, simply note that the bosss tight grip has the effect of weakening the secretarys ability to blackmail. You get all the same points across and nobody gets hurt. See? Easy.
+ 
+You should follow me on twitter here.
+ 
+May 13, 2008
+ 
+You can also send comments by email.
+ 
+
+ 
+
+====================================================
+Date: May 12, 2008
+ 
+Title: How to Fix the News
+ 
+Newspaper circulation continues to decline. The top-selling paper in the country, USA Today, distributes only 2 million copies a day (half, no doubt, placed outside hotel room doors). Around the same number, with an average age of 71, watch The OReilly Factor nightly, with the number decreasing as the audience dies off. Everyone quietly concedes the news industry is dying. Its the Internets fault, they all assure us.
+ 
+But what if it wasnt? The other day I heard a news program that was so good that I wanted to listen to it again. And Im not alone  all my friends have been talking about it as well. And while I dont have exact numbers, it seems as popular as any one of those other news outlets. That show? The This American Life episode on The Global Pool of Money  a comprehensive explanation of the housing mess.
+ 
+There were three things about the show that made it stand out from the rest of the news pack:
+ 
+It believed in the intelligence of its audience. It didnt try to pander with sex or disasters or quick cuts. It took a serious news story and investigated it thoroughly for a full hour, with only one break. And it didnt try and dumb any of it down  it explained the whole thing, from top to bottom.
+ 
+It didnt assume you already knew the subject. Most news stories on important topics are incomprehensible to the average person who doesnt know much about their topic. Heres a quote from a random news story about the housing crisis: They said financial institutions have been unwilling to expose themselves to the mortgage market, and lenders are hesitant to lend to risky borrowers in a declining house price market after the subprime meltdown. Unless youve been following the story (like the reporter, presumably) do you really know what that means? TAL instead assumed you knew nothing and explained every component and term so that you actually had a picture of what was going on.
+ 
+It was done in an entertaining and conversational tone. It didnt treat the news as some important series of facts that had to be seriously conveyed to you. It treated it as something interesting they wanted to tell you about, a story that involved real peoples lives (who you got to hear from at length) and was full of genuinely interesting pieces. Look at that news quote above one more time. Can you really imagine someone sitting down and saying that with a straight face?
+ 
+At first these things may seem contradictory  how can you believe in the intelligence of your audience while assuming they dont know anything? how can you be entertaining and yet still explain a subject?  but the more you think about them you see how well they fit together. Being intelligent doesnt mean youre knowledgeable; it means youre curious. Which means you want to hear the whole story from beginning to end and which means you might actually find it entertaining. And being conversational prevents you from assuming the mask that lets you talk down to your audience while pretending they only need to hear the handful of new facts that youre providing.
+ 
+In every other field, that kind of formality has been dropped. Even banks run advertisements these days about how their associates will be your friend. And yet the news chugs along with its arrogant formality, watching its audience get older and older, and wondering why its circulation is declining.
+ 
+Together, these three points seem like the recipe for a genuine news show: intelligent, comprehensive, and entertaining. And yet, I cant think of a single thing that follows them. Surely in an era of desperation and experimentation, the wacky idea of actually respecting your audience has to be worth a try by someone. Anyone want to give it a shot?
+ 
+You should follow me on twitter here.
+ 
+May 12, 2008
+ 
+I too enjoyed the NPR/This American Life The Global Pool of Money programme.   But, there has been plenty of good coverage in the press if you chose to look.  See e.g. http://www.guardian.co.uk/business/2008/apr/08/creditcrunch.banking .
+ 
+And Im not so sure that the news is broken.  The decline in sales is probably indicative of some other wider (societal) issue.
+ 
+posted by Benjamin
+ on May 12, 2008 #
+ 
+That article conveys far less information and is a lot less readable than the TAL piece. Its a pretty standard long newspaper feature and I cant imagine the average person understanding the situation from it or even getting thru it. (Compare Susan Faludis introduction to her book Backlash to her newspaper article on LBOs and youll see how impossible it is to do good work in that format.)
+ 
+posted by Aaron Swartz
+ on May 12, 2008 #
+ 
+If you really want an alternative, heres a much better piece of journalism on the subject:
+ 
+http://docs.google.com/TeamPresent?docid=ddp4zq7n_0cdjsr4fn&skipauth=true
+ 
+posted by Aaron Swartz
+ on May 12, 2008 #
+ 
+I agree that the TAL piece was excellent, but I wouldnt say that the Guardian pieces conveys far less information.  Perhaps the Guardian didnt touch on the relaxation of regulations for US mortgage applications prior to the crunch, but the general story and main issues (viz. nature of CDOs and rating agency mistakes) are still there.
+ 
+Unfortunately many (most?) things are inherently complex and require more than a 2 minute segment in a news programme to allow viewers/readers to gain a thorough understanding.   My view is that the news media merely point out a subset of stories  usually relevant to only them and or their publishers/owners  and leave it to us to find out more.
+ 
+I dont think there is enough time in the day to allow one hour programmes examining each and every pressing issue arising in the world.
+ 
+posted by Benjamin
+ on May 12, 2008 #
+ 
+I dont think there is enough time in the day to allow one hour programmes examining each and every pressing issue arising in the world.
+ 
+Luckily the pressing issues dont change every day; a daily one hour program could cover each of them in turn and convey much more understanding than traditional news.
+ 
+posted by Aaron Swartz
+ on May 12, 2008 #
+ 
+Absolutely agree with you, Aaron.  That program is a gem, as are many other programs on NPR.  Wish a greater portion of the folks who appreciate these programs would pony up even a modest amount of financial support for public radio; maybe then I wouldnt have to deal with the aggravating and all-too-frequent pledge drives :(
+ 
+posted by Adam
+ on May 12, 2008 #
+ 
+Citation for the average age of OReilly Factor viewers?  Or was that a joke?
+ 
+posted by John
+ on May 12, 2008 #
+ 
+From the few eps Ive heard online (including this one), This American Life does a fantastic job at telling stories in a compelling way.  Its funny to hear the reporters continually remind you of the individual personalities involved in a storyeven one as big as the credit crisisyou can tell they really try to personalize a story to give it life.
+ 
+Cable news is like information candy.  This feels more nourishing.
+ 
+posted by Kevin W.
+ on May 12, 2008 #
+ 
+This is frivolous, but I cant stand listening to Ira Glass (or almost anyone else on NPR, for that matter).  I dont suppose theres a transcript?
+ 
+posted by Cosma
+ on May 12, 2008 #
+ 
+And Im not alone  all my friends have been talking about it as well.
+ 
+As the apocryphal story runs How could Richard Nixon have won? Everyone I know voted for McGovern!
+ 
+I enjoy TAL too  but more relevantly, you might note they eke out a living on the fringes of the media world, competing with rant-radio and pop-music. Quality is a hard sell in terms of profitability.
+ 
+posted by Seth Finkelstein
+ on May 12, 2008 #
+ 
+The 71 number comes from this NYT article from 2006 on Olbermann.
+http://www.nytimes.com/2006/07/11/arts/television/11keit.html
+ 
+MSNBCs research claims that the median age for Mr. OReillys audience is 71, while Mr. Olbermanns is 59. (Fox and CNN both report that the only figures they get for median age of shows with older audiences is 65 plus, and that Mr. OReillys audience falls into that category.)
+ 
+So however you want to put it, its clearly the senior citizens.
+ 
+Of course, that was in 2006. If the trend held, the number is probably getting even older.
+ 
+posted by Dan Lewis
+ on May 12, 2008 #
+ 
+1.5 million viewers as well as a pay-cable television show is eking out a living? What planet are you on?
+ 
+posted by Aaron Swartz
+ on May 12, 2008 #
+ 
+The only other outlets that I can think of to come close to the NPR story are The Daily Show and The Colbert Report, which are more about humor than the news.  The scary thing is they generally provide more interesting / useful coverage than the news networks (often by lampooning the networks).
+ 
+posted by Jason
+ on May 12, 2008 #
+ 
+http://www.talkers.com/main/index.php?option=com_content&task=view&id=17&Itemid=34
+ 
+Though if that 1.5 million number is true, its doing better than Id expect.
+ 
+FYI, this is funny:
+ 
+http://www.kasperhauser.com/this_am_life.html
+ 
+posted by Seth Finkelstein
+ on May 12, 2008 #
+ 
+This American Life is not an NPR program.  It is produced by PRI (Public Radio International).
+ 
+posted by Phil Mocek
+ on May 12, 2008 #
+ 
+There is additional advantage to reading in comparison with watching - you are under less influence of the author.  This is why you take contracts to home to read them alone - you can gather more intellectual resources for critical thinking when you free your mind from the image of the author.
+ 
+posted by Zbigniew Lukasiak
+ on May 12, 2008 #
+ 
+That still doesnt answer the question over how the 270 million people in the US will get their news. This American Life is a great program, but it appeals to a minority audience: Those that have 1 hour to listen to a news program. How do we get the public, most of whom dont have much time, engaged once again with news? and interested in it? After visiting WV over the weekend I was surprised how many individuals I spoke to thought Obama was a muslim and had the same philosophy as Rev Wright. That doesnt suggest the media (of which I am one) is doing a good job.
+ 
+posted by Paul Guinnessy
+ on May 13, 2008 #
+ 
+Phil Mocek, very good point.  I stand corrected.  What I should have been encouraging was donating to ones public radio station, not NPR specifically.
+ 
+And Paul, I hate to say this, but while I largely agree with Aaron and others that our media can and should do a better job reporting the news I also think people need to take responsibility for their own education and enlightenment.   You can put delicious and nutritious food in front of folks, but if they still insist on eating cotton candy and slurpees, well
+ 
+posted by Adam
+ on May 13, 2008 #
+ 
+Hi Aaron,
+ 
+Great article on an important. I can understand your thoughts on why news seem indecipherable to so many. However, I would agree with some of the other commentators here to say that:
+1) this is not a model that can be replicated enmass.
+2) this is not the reason why newspaper/print media companies are performing poorly.
+ 
+1) As others have stated above, everyday news is only able to provide daily developments in current issues. They are not able to reiterate the entire history everyday. When I was in highschool and first began reading the newspaper, I had a lot of difficulty since the type of information given is not conducive to the understanding by a first time reader. However, now, since I have a stronger knowledge base to reference from, I find I can last a week between newspaper reading the paper but still completely understand most current events. For the purposes of ongoing and protracted issues, daily developments can only be published piecemeal. However, I agree that a pervasive and complex event could be better explained by a Special report that speaks to the publics intelligence and background knowledge.
+(Note: If you enjoy this type of reporting, may I recommend BBC News channel- up to the date news reports punctuated by indepth analyses of specific issues)
+ 
+2) Print media, like many industries, underwent a giant transformation due to the advent of the internet. But content isnt the reason why companies suffered- Delivery was. Companies like Wall Street Journal and the one newspaper Buffet invested in (Chicago based I think) adapted to the internet quite well. It can further be said that Print Media companies had full advantage in using the internet. They were well capitalized, had the infrastructure and network, and many other barriers to entry to be first movers in this space. However, management was incapable of seizing this opportunity.
+ 
+I conclude by saying that i agree with you in that our core audiences needs have changed. However, I would not surmise to think that more exhaustive content is a solution to the print media woes of today. What are your thoughts? Is there room for agreement between our views?
+ 
+posted by Edward Marcus Lam
+ on May 13, 2008 #
+ 
+You can also send comments by email.
+ 
+
+ 
+
+====================================================
+Date: May 12, 2008
+ 
+Title: Science or Philosophy?: Jon Elster and John Searle
+ 
+As the name suggests, the social sciences have often seen themselves as an analogue or extension of the natural sciences and have from the beginning aspired to their successes. Like many who want to duplicate success they do not understand, social sciences has been obsessed with duplicating the form of the natural sciences and not its motivations. Just as rival music player manufacturers have tried to copy the look of the iPod without understanding why it takes that look, the social sciences have copied the structure of the natural sciences without understanding why they take that structure.
+ 
+The greatest success of the natural sciences is undoubtedly the laws of physics. Here, an handful of simple equations can accurately predict the motion of a vast variety of everyday objects under common actions. Seeing this, social scientists have aspired to derive similar laws that predict the behavior of whole societies. (Others, meanwhile insist the entire project is impossible because the society will respond to the creation of the law, making the law invalid  reflexivity.)
+ 
+But reflection upon the history of the natural sciences will see that this notion is insane. Physics did not develop thru attempts to discover the laws that explained all of motion. Instead, various kinds of motion (like falling objects) were described, rules for their behavior deduced, and commonalities in those rules discovered. Eventually it was the case that the commonalities were so great and the rules so few that a handful of laws could explain most of the phenomena, but this assumption was not made a priori.
+ 
+Jon Elster argues that the social sciences should proceed in a similar way: various social phenomena should be described, the mechanisms that give rise to them explained, and the commonalities among mechanisms discovered. Most of his work consists of practicing social science in this way, with a few attempts at laying out a toolbox of these common mechanisms.
+ 
+Modern social science is so split between attempts at grand law-like theories and modest essays of careful description that Elsters third way seems alien and hard to comprehend. But there is a clear model that social scientists can look to: analytical philosophy.
+ 
+Analytical philosophers do not take as their task grand law-like explanations for the world. Instead, they set upon a particular piece of conception  language, free will, ethics  and try to discover its logical structure. In doing so they often develop tools they shared in common with other philosophical projects.
+ 
+This similarity can perhaps be best seen in the work of the man who is Jon Elsters closest equivalent in the world of analytical philosophy, John Searle. In his career, Searle has addressed a number of topics: language, intentionality, consciousness, social reality, and rationality. Throughout he has taken has his task providing a clear description of the phenomena and explaining the pieces it consists of. And in explaining those pieces, he frequently develops tools that he reuses in his other explanations.
+ 
+Take the notion of direction of fit. Searle argues that all statements have a direction of fit, which can be either up, down, both, or null. If we imagine (by convention) that statements float above the world pointing down at the things they represent, then statements like John and Jill are married, in which it is the job of the statement to change to accurately represent the world, have a downward direction of fit. By contrast, statements like I want to marry him, in which it is the world must change to match the statement, have an upward direction of fit.
+ 
+This notion, which Searle and Austin developed for describing language, Searle later reused for describing mental states. Love, for example, has an upward direction of fit, belief downward, and joy null. And in my own everyday life, I have found the same tool useful in thinking about various phenomena Ive encountered.
+ 
+Social scientists dont seem to read much philosophy. I suspect most of them see it as an alien culture consisting of, as Paul Graham put it, either highly technical stuff that doesnt matter much, or vague concatenations of abstractions their own authors didnt fully understand. But perhaps they should, because even if the technical stuff lacks interest (and considering some of the topics involved, Im skeptical that this is always the case), the tools, and the way theyre wielded, should be a lesson.
+ 
+You should follow me on twitter here.
+ 
+May 12, 2008
+ 
+You can also send comments by email.
+ 
+
+ 
+
+====================================================
+Date: May 11, 2008
+ 
+Title: The Toolbox Does Not Shrink
+ 
+
+ 
+For the past forty years, Jon Elster has attempted to explain things ranging from the emotions to technological change. The result is dozens of books (and even more papers) in three languages across four universities. And throughout, his work has not just been exemplary social science, but has always struggled with the question of what social science should be  what kinds of explanations are legitimate, which techniques should be used, and so on.
+ 
+As he reaches his late sixties, it is understandable if he begins to think of his legacy. That certainly would help explain his latest book, Explaining Social Behavior: More Nuts and Bolts for the Social Sciences (Cambridge University Press, 2007), a 500-page masterpiece that I expect will be seen as the summation of a brilliant career.
+ 
+Its a book unlike any other and, as a result, unless read from start to finish can seem bizarre, if only because one has little sense of what the book is trying to do. It is not a guidebook, or a textbook, or a piece of social science in itself. In short, it is nothing less than an attempt to summarize an idealized vision of the whole of social science in simple language.
+ 
+The books foundational assumption (as implied by its title) is that the goal of social science is to discover explanations for social phenomena. It begins by describing what explanations are and discussing their different forms. But the bulk of the book consists of tools that can be used in explanations: emotions, norms, time discounting, weakness of will, magical thinking, cognitive dissonance, heuristics and biases, rationality, irrationality, neuroscience, evolution, externalities, game theory, pluralistic ignorance, informational cascades, collective action, cyclical preferences, institutions, etc.  in short, the entire toolkit of the social sciences.
+ 
+Just as amazing as the breadth topics is the way in which theyre covered. Elster explains each phenomenon clearly and concisely, so that any educated reader can understand them with little effort, without ever sacrificing intellectual depth. His explanations are peppered with examples from an amazing variety of sources: ancient history, recent history, personal experience, the classics of social science (e.g. Tocqueville), the great philosophers (Montaigne, Pascal, Mill), and classic novelists (e.g. Proust). The result is a book which not just introduces readers to the discoveries of the social sciences but to the intellectual world as a whole. Bibliographical notes following each chapter as well as the conclusion provide a rich guide for further exploration.
+ 
+And yet its not simply a compendium of interesting results in the social sciences, but attempts to defend a particular conception of what the social sciences should be. In the conclusion, Elster defends his notion of social science as the attempt to discover particular explanations for particular phenomena against the soft obscurantism of the literary theorists and the hard obscurantism of the economists. As part of this, he turns his back on the notion of rational-choice models being an explanation in themselves, noting that their many assumptions are in desperate need of empirical defense.
+ 
+In response to an earlier draft of this review, Elster wrote Im glad you appreciate the details in my book, but youre missing the big picture, which is that there isnt any. Instead of trying to build a Grand Theory which explains all of social life, we should try to build explanations of particular phenomena from the nuts and bolts we have lying around. And even if a dominant explanation of a given event or episode is discarded and then resurrected, the building blocks or mechanisms at work in the discarding and resurrection remain. The repertory, or the size of the toolbox, does not shrink.
+ 
+For anyone who cares about social science, Elster has done an amazing service in clearly describing the toolboxs contents and defending its importance.
+ 
+This is the first post of Elster week.
+ 
+You should follow me on twitter here.
+ 
+May 11, 2008
+ 
+You can also send comments by email.
+ 
+
+ 
+
+====================================================
+Date: April 20, 2008
+ 
+Title: Money and Control
+ 
+I never give money to those people, she said. Theyre only going to spend it on drugs, anyway. And whats so wrong with that?, I wondered. I can see why one might want to discourage Harvard students from spending all their time getting stoned (although, I have to say, I dont see anyone doing that), but if your life is spent sitting outside, hungry, cold, and miserable, drugs seem like a pretty decent use of the money.
+ 
+But, more importantly, since when is that your call to make? That you live in a nice house with a bulging wallet and he lives on the street is due to an enormous number of random factors that could just as easily have been reversed. And even if youre arrogant enough to believe youre a better person in some way  smarter, harder-working, more ambitious  since when does being better give you the right to tell other people how to live their lives? Is Tiger Woods allowed to just come along and take the chocolate out of your shopping cart at the supermarket?
+ 
+It is a sad fact of reality that you have money and he has none and that, as a result, he needs the money to buy material goods. But no moral consequences can be derived from this. Just because history has given you the power to choose whether this person can acquire certain material goods doesnt give you the right to make that call.
+ 
+Now its true, you dont have to give him money at all. Most dont. But if you feel that other people deserve to live a life without privation, at least let them choose how to live that life.
+ 
+Perhaps an example closer to home will help. Remember when your father offered to help you buy a house if only you went back to school? That was the same thing  trying to use the fact that he had money and you didnt in order to get you to do what he wanted. For years, hed been trying to get you to go back to school; and you didnt, because it was your decision and you didnt want to. But then he realized he could use the money to control you. Remember how that chafed?
+ 
+At the time you brushed it off as his money, his call. But dont you see how thats not true? Whether you go to school or not was never his call. And while its certainly within his rights to help you buy a house, using that to try to and control you was wrong. You deserve to make your own choices about your life  we all do.
+ 
+Including that man there.
+ 
+You should follow me on twitter here.
+ 
+April 20, 2008
+ 
+Hi Aaron,
+ 
+While I struggle with the practical implications of your thoughts here, I cant argue much with the logic behind them.
+ 
+I wonder, who is talking about the relationship between the logic of our actions regarding society, and the effects of those action? Perhaps Im getting at this question: on what basis should we evaluate our actions re: society? Logic? Emotion? Pragmatism? Social Darwinism?
+ 
+Thanks for sharing your Thoughts
+ 
+Steve
+ 
+posted by Steve Ivy
+ on April 20, 2008 #
+ 
+Just because history has given you the power to choose whether this person can acquire certain material goods doesnt give you the right to make that call.
+ 
+If Im paying for the material goods, I feel like I should have a certain amount of power over what goods are purchased.  I have a moral opposition to drugs, and so therefore I wont dispense money unless I know for certain it wont be used for drugs.  Subsequently, I dont give money to bums that are likely to use it for drugs.
+ 
+When you ask other people for money without giving something in return, you necessarily give up some of your rights to privacy and the usage of that money.  See: Food stamps, etc.  The person giving the money isnt trying to control the person receiving it, theyre just trying to make the most effective (morally and economically) usage of their money.
+ 
+posted by Erik Peterson
+ on April 20, 2008 #
+ 
+But your Dad has the right to refuse money if you dont go back to school, right?
+ 
+And thus she has the right to refuse money to people whom will use it to buy drugs, right?
+ 
+Freedom, eh?
+ 
+posted by Brett
+ on April 20, 2008 #
+ 
+Erik: Thanks for sharing your feelings, but do you have any justification for them? You are trying to control someone thru the use of your money. You may consider that control effective, but at what?
+ 
+posted by Aaron Swartz
+ on April 20, 2008 #
+ 
+That you live in a nice house with a bulging wallet and he lives on the street is due to an enormous number of random factors that could just as easily have been reversed. And even if youre arrogant enough to believe youre a better person in some way  smarter, harder-working, more ambitious  since when does being better give you the right to tell other people how to live their lives?
+ 
+But thats not really true.  What you seem to be saying is that in effect people are not responsible for their actions.  Sure, there are a whole bunch of random inheritances I got from my family, including both genes, prenatal health, etc. as well as cultural endowments like being taught to elevate certain behaviors over others, reading, learning, etc. as well as social endowments by being upper middle class.  In so far as any success I have as a direct relationship to these things without any reflection upon my choices and behaviors what you say is true.  But while these things help, they are clearly not the only thing that matters.
+ 
+My mom came to this country when she was in her teens not speaking the language from a small down which didnt have schooling past 5th grade and became a doctor at a time when Women Werent Doctors.  There is a moral difference between doing that and coming from a similar place and not doing that.  One is better than the other, and the reason that it is so is because of the effort and the choices that someone made.  If my mom didnt fight to achieve then it wouldnt have happened.  If she wasnt as smart as she was or had a different temperament or different genes or different parents than it wouldnt happen.   If she was a paranoid schizophrenic then it wouldnt happen.
+ 
+But there still is very clearly a difference.  Somethings are in your control, and you are responsible.  There is a moral dimension, especially when things are more-or-less equal.  If your homeless man is a mentally healthy individual who came from opportunities than, frankly, hes an asshole.  But this example is contrived, because most of the homeless I see (I live in NYC so thats at least 5 before i get to the office every morning) basically should be in an institution where they are fed and sheltered because they are sick, either mental illness or PTSD or something which we are being heartless by letting them suffer on their own.
+ 
+Not everything is in your control; but quite a lot is.  History is not what gives people power, it is a combination of their circumstances and what they do with those circumstances, and thats where some people are better than others.  And by better, I mean better at playing the hands that they were dealt.  And to push the cards analogy further, you see the same faces at the last table of the poker tournaments.  So even if the hands are random, as they are in the games, the way and the skilled with which they are player dominates the results.  Not any sort of random acts of history.
+ 
+So you have proved that you are better at living your live as someone else.  Ok, what gives you the right to tell anyone else?  Well, thats not really the situation.  The other person is asking for money, which means that the other person is not in fact acting independently.  The right of control is given when the person asks.  If they didnt ask for anything, then there is no right.  The right basically stems from the fact that the person who has the money or is giving something away is obligated to act morally; they are responsible for their actions.  And if giving you money encourages you to do something immoral or wrong, like say killing yourself with drugs (I actually dont care about drugs but when you are in a liquor store watching a homeless guy buy thunderbird in nickels and dimes and the guy behind the counter says something about needing to have their medicine you wonder who those assholes are who enable them to wallow in the street rather than say housing and feeding them), well, you cant shirk the responsibilities of your action having consequences.  And thats where the control imperative comes from.
+ 
+posted by Will
+ on April 20, 2008 #
+ 
+Im not trying to control a person through money, Im trying to control my own money, which I work to earn.  I dont think Im unreasonable for trying to direct the flow of my own money.
+ 
+I think you have a drastically different view on the ownership of money than I do.
+ 
+posted by Erik Peterson
+ on April 20, 2008 #
+ 
+I guess the point is: until I give it away, it is still my money. So if I am going to invest in a human, Id prefer to do it in a way that doesnt lead to more self destruction. I give money to things like the local food bank, and other local city projects that. If folks are really hungry, they know where to go.
+ 
+Another way to look at it: a friend is in need of some money. Lets say health problems took their toll, and he or she is in the middle of rebuilding their life. While, I would support them in getting some improved quality of life over just simply surviving, I would not gift them money if they could barely pay their rent, and they are out buying the latest and greatest iPhone and skipping off to LA.
+ 
+Ill gladly give me money away to help folks survive, but otherwise my extra money is for MY luxury, not theirs. So, I guess it is a pecking order. Someone elses survival, should be more important than my luxury, but your luxury will rarely, if ever, trump mine.
+ 
+posted by KiltBear
+ on April 20, 2008 #
+ 
+Are you really helping someone by feeding their habit?
+ 
+Heres an idea: if theres a restaurant or food shop not too far from where you are, ask the person if theyre hungry and offer to buy them lunch / dinner. If its cold outside a soup and sandwich, or a meatball sub, can help.
+ 
+posted by David Magda
+ on April 20, 2008 #
+ 
+i think there are few things at play here:
+ 
+there will always be poor people.
+ 
+there is a difference between being broke and being poor.
+ 
+i agree with aaron that we should help other people because they are people.
+ 
+being a person, however, does not mean that you deserve anyones help. if anything, its the other way around: being a person means you have a responsibility to help other people.
+ 
+helping other people does NOT ONLY mean giving them money.
+ 
+therefore, i think we have a responsibility to help the poor (and occasionally the broke). how we decide to do it, however, is our freedom.
+ 
+i have never turned down someone asking for help in my city. but then, ive never given them cash, either. i always buy them food, and sometimes will even eat a meal with them.
+ 
+and aaron, i have to agree with Brett: your example was ill-conceived. when you are asking your dad for money, and he says you have to go back to school, he hasnt removed free will from the equation. you can refuse to go back to school, and he can refuse to give you money. he owes you nothing. and you arent actually controlled by him.
+ 
+turn your equation around. when your son asks you for money, because hes in debt and doesnt have money for beer and prostituteswill you give it to him? and how much? and for how long? somehow it seems youd draw a line somewhere. at some point youll look at your kid and say get a job, im not supporting you anymore. is that controlling his life? or is that simply being an adult?
+ 
+posted by nic
+ on April 20, 2008 #
+ 
+I never give money to those people, she said. Theyre only going to spend it on drugs, anyway. And whats so wrong with that?, I wondered.
+ 
+Could you seriously give a defense of a homeless person begging 20 dollars over the course of a day and then spending it all on heroin as a sensible or good use of the time or money of any of the people involved.  Under what value system is that a good outcome?
+ 
+posted by Thomas David Baker
+ on April 20, 2008 #
+ 
+Can you seriously give a defense of a banking CEO giving himself a multi-million dollar salary and spending it on yachts as a sensible or good use of the time or money of any of the people involved? There are lots of things people do with money that are probably less than ideal, but I dont get to tell them how to live their lives.
+ 
+posted by Aaron Swartz
+ on April 20, 2008 #
+ 
+Aaron,
+ 
+I think Mr. Baker asked a straightforward question and you completely dodged it.  Id love to know about a banking CEO that giv[es] himself a multi-million dollar salary but that is off-topic.
+ 
+Is control such a bad thing?  Imposing control on some homeless people sounds like a great idea to many people.  At least let them confront their addictions/mental issues, which are the overwhelming problems confronting the homeless, before you let them continue their negative patterns under their free will.
+ 
+What is so horrible about control in general?  Sure, there are a number of parties I would not want controlling me.  There is nothing immoral about subsidizing an activity with some expectations or strings attached.  If you disagree, I expect you would percieve everyone as immoral which you seem to anyway.
+ 
+posted by Jeremy Corbett
+ on April 21, 2008 #
+ 
+I recently had a similar conversation with some friends.  Im kind of with Aaron on this oneI dont base my decision on what I think a beggar will use money for; I spend money on alcohol, so why shouldnt he?  My problem with beggars is that they arent producing anything valuable, so I dont think they deserve my money.
+ 
+I dont give money to people who simply ask for money, but I will almost always drop a dollar in someones hat whos singing a good song.  I feel like hes earned it by lifting my spirit with a song.
+ 
+posted by Kortina
+ on April 21, 2008 #
+ 
+(Wish I had read your last post before this one before I posted my comment on this post.)
+ 
+posted by Kortina
+ on April 21, 2008 #
+ 
+Hmm.  I quite felt my dad was correct to say that sort of thing, while I feel differently about people who ask me for money around the courthouse.
+ 
+I guess I felt my dad had some responsibility which meant some right to attempt to use moral suasion, and I trusted my dad.
+ 
+I dont expect a guy who is asking me for money to trust me and I dont feel that responsible for him.
+ 
+Ill have to think more.  Am I enabling or not?  I hope not, but I think about it.  Cant help myself though.  There is the hope it will help if I give money, just as when Ive donated time at shelters to serve food.  One hopes.
+ 
+posted by Stephen M (Ethesis)
+ on April 21, 2008 #
+ 
+Aaron,
+ 
+I live in Chicago and we have a newspaper that is sold by homeless people looking to get back on their feet.  I buy the paper weekly.
+ 
+However, what would be the best gift to give to these folks?  Is it money, is it volunteering at a shelter?  How can we change the dynamic?  Should we?
+ 
+posted by Ziad
+ on April 23, 2008 #
+ 
+what would be the best gift to give to these folks?
+ 
+Why not give them all the gifts you can? Im not sure what day-to-day part-of-your-job interactions programmers have with the poor, I suspect its not much. As an officer in the Navy, many of my sailors families qualified for food stamps. They are a hardy bunch but often at risk of loosing their housing. They didnt have good role models, in fact they often were surrounded by horrible role models. Molestors, drunks, abandoners. Quitters, jailhouse thugs, and the mentally disabled. The mentally disabled may be good people, but theyre bad role models if for no other reason than they are simply not emotionally consistent, reliable, predictable.
+ 
+As a medical student, Ive seen the poor at their lowest. The mentally disabled at their worst: lying, seductive, violent, desperate, confused, fractured  floridly psychotic they call it. One man gouged out his sisters eye for talking back to him while he was raving in the street. Hes schizoaffective. He didnt know. He sells himself as a male prostitute to get money, a trade he learned in jail. But his sister is now also traumatized for life, and her children will no doubt be scarred emotionally, desperately wary of men, mental illness, or both. Ive seen a 40-year-old man come in to the ER to look over his 73-year-old mother whos somnolent and bleeding internally from dead bowel, the arteries clamped off for hours by the vasoconstrictive effect of cocaine. Ive seen a former Senate staffer turned schizoaffective. Why? Chance. Dormant genetics. Not her fault. Struck down from the seat of power at 35.
+ 
+The ones that break my heart are the vets. Id like to know how many scruffy middle-aged men on street corners with cardboard vet signs are actually vets. I suspect most of them are. These were perfectly healthy and intelligent people before something devastated them, mentally, physically, spiritually. Many are travellers: emotionally disturbed, never treated, they wore out their families and were abandoned by the ones they loved. Their wives abandoned them to care for their children and they simply couldnt care for an apparently permanently broken husband as well. They roam from bed to bed, city to city. They favor the grain cars on trains: the long bucket-like cars have welded reinforcements at the ends where the bucket wedges inward at the bottom. The reinforcements form a cave-like structure with a little porch.
+ 
+But before they wandered, before they were abandoned, theyre wrecked psyches made them terrible role models for those children. Who then either sort it out or dont. The outcome probably depends most on the length of exposure.
+ 
+Other vets were never abandoned by their families. They had no families. Unfit for duty, they were discharged and walked across the blue line on the curb, bag in hand. Too embarrassed or unable to go home, they wander.
+ 
+Heroin is an opiate. It relieves pain. Its a favored drug of the poor. Cocaine and meth give the user a feeling of strength, power. The power to meet their fathers expectations. The power to turn the next trick so at least theyll make the rent. Until the money gets spent on the next hit. Alcohol, its a little liquid courage to make a bold step and talk to the girl. We all experience a degree of pleasure in overcoming that little challenge. Unfortunately, it seems a number of alcoholics may actually derive too much pleasure, too much dopamine. They can experience pleasure an order of magnitude greater than most of us. They dont know that. You dont know that. But they quickly associate the liquid courage with the intense pleasurable dopamine payoff, and take to it like fish, with all the expected terrible other consequences.
+ 
+Somewhere in society there is a shift from goods begetting goods to problems begetting problems. The people have so many problems, theres no point in fixing the first one, like a car with too many dents to fix. Children who are born into these broken homes and escape are in a very real way lucky: the random events in their lives added up to shape their decision-making process and early actions in such a way that they accidentally fall across the divide and begin to be net contributors. It is little wonder some of them are revolted by their past and rail against poverty and the poor work ethic of the poor. But its hard to appreciate the flip-side: that theyre the one car that got out of the wrecker derby unscathed. The rest are too dented.
+ 
+Keep in mind, people dont generally live on the street for years. Not truly on the street. Those who run out their welcome at every half-way house, every shelter, they die.
+ 
+On the flip side, there is also a significant value to each of us taking action. In time, money, quantity, quality, adding something to these peoples lives. People turn themselves around. They do. Believe it or not, beggars may be on their way up. These are people who, through mental illness, lack of education, lack of mental capacity, or their own past poor choices are likely living moment to moment. Theyve been forced to admit, probably in the last minute, and maybe 60 times in the last hour, that they have nothing and no way of bootstrapping themselves to even the faintest of goals without some minimum amount of money. At that moment, the moment you are before them, theyre not getting high enough to do the next deed. Theyre not sleeping in the alley. Theyre not beating their kids (those are probably long gone). They might be resigned, they might have been playing trumpet yesterday until they woke up this morning and found their trumpet stolen. In that moment, Ill just about garuntee their plan is not to buy drugs or alcohol or anything except a cab to their sons house to apologize, or to the ER to get paracentesis for their hepatitis. Or food. But they probably are practical and with it enough to realize that you might have cash, but you probably dont have a can of Campbells in your car. And they really dont want anyone throwing a can of Campbell at them. The coins and their feet hurt plenty enough. They might be asking for money, but in truth theyre asking for something. Anything. Please.
+ 
+What value system seriously argues against charity?
+ 
+Give to poor. There but for the grace of chance go you.
+ 
+posted by Niels Olson
+ on April 23, 2008 #
+ 
+Just because history has given you the power to choose whether this person can acquire certain material goods doesnt give you the right to make that call.
+ 
+Would I be right in generalizing your comment to be, It is immoral to use power to influence people?
+ 
+Or is that too general?
+ 
+posted by Gordon McNutt
+ on May  8, 2008 #
+ 
+Your post reads like I should have to give the man money (because you say so, effectively).  Now whos being controlling?  Youre entitled to your opinion as much as the next guy.  However, when your opinion is no more than, I think you ought to give money to street people, I think you should expect flack.
+ 
+Tell you what  Go find a homeless person who cant read, and teach them to read.  Because I said so.  No, really.  You can read, so what right do you have to let them stew in their illiteracy?  And not just that one illiterate person you passed this morning  you (personally) have to teach all of them, because they all need it.
+ 
+In response to Erik, you wrote, You /are/ trying to control someone thru the use of your money.  And what, exactly, are you trying to do, through the use of your blog?  Control others, Id wager.
+ 
+posted by Random Passerby
+ on May 10, 2008 #
+ 
+I usually dont give money to anyone that I dont know.  I dont give money to charities.  Through my life I usually havent had a lot of money to give money to help street beggars, although sometimes it tugs your heart strings to see them.  And from the statistics, most people a NOT mentally handicapped or drugged up.  What they are is mothers with little children, veterans, people like you and I who were doing just fine one day and the next they lost the job, their marriage, their health, their house.  What I do, if someone is in distress, is to lend a hand.  I usually help someone (even a stranger) who is stranded with a flat tire.  I have, several times, given a ride to a hitch hiker.  I usually open the door for the person behind me.  If a someone is depressed or has lost loved one, I linger a little to see if they need someone to listen.  If a person is been overwhelmed, I have babysat for an afternoon or helped clean their house.  If someone is beaten from a spouse, I listen to them and offer some counsel, or a place to stay if they seem they need that.  One time a coworker was in fear of his job, so I went to the boss to try to keep his job (didnt work).  Another person, who was in pain, needed me to drive her to the doctor.  I payed for the doctors bill because he wouldnt see her without payment.  So far, the people that I have known, most of them didnt seem to want handouts, they just want some kindly and thoughtful advice, a job, someone to talk to, a way to make it, a little respect.  Everything you do has an effect on someone else.
+ 
+posted by kathy
+ on June  8, 2008 #
+ 
+You can also send comments by email.
+ 
+
+ 
+
+====================================================
+Date: April 20, 2008
+ 
+Title: Money and Worth
+ 
+The streets of San Francisco are lined with poor people looking for a
+little spare change. Many different strategies are tried  some just
+shake a jar, others call for help, some make specific small requests,
+and a fellow I saw today just kept sunnily repeating a nickel and a
+smile will last a long while in an endearing tone. Others, however, try
+to earn their keep  playing music, doing tricks, selling special
+papers like Spare Change.
+ 
+I have a strong urge to help out the first group, those who simply ask,
+but helping the second has always struck me as odd. People tell me that
+its better if the poor receive their money by doing work, because it
+lets them retain some dignity, but Ive never quite bought that. After
+all, how much dignity do you get when your income comes from people
+patronizingly pretending to buy a newspaper specially created for this
+ruse?
+ 
+But theres a much more serious problem with only giving the poor money
+for doing things. It encourages them to think their worth as a person is
+defined by their success in the capitalist economy.
+ 
+Now there is a grain of truth to this delusion. There are many useful
+jobs for which society can compensate you. (Although even that, frankly,
+requires a level of non-useful skill at fitting into the general
+capitalist system.) But thats about it. There are many useful jobs that
+society doesnt compensate well. There are many useful people who cant
+do any of those jobs because society never trained them or gave them the
+opportunities required. And even if, perchance, there existed someone
+who cannot and even with training and opportunity could not do anything
+useful, it seems clear to me that their simple existence as a human
+being endows them with some inalienable value. (If human beings didnt
+have value, then we would have no one to do useful things for.)
+ 
+People on the street dont deserve our money because they can pretend to
+do certain menial jobs. Nor should their sense of dignity be bound up in 
+doing them. Instead they, like everyone else, deserve our money because
+they are people and if we cannot care for other people, then we have
+precious little else.
+ 
+You should follow me on twitter here.
+ 
+April 20, 2008
+ 
+Thank you for this post.  This is an amazingly lucid and compassionate exploration of human values, dignity and our ways of caring for each other.
+ 
+posted by Amy
+ on April 20, 2008 #
+ 
+I completely agree that the Street Spirit / Spare Change delusion doesnt really help anyone, and that it is simply better to help a fellow denizen out of the goodness of the act.
+ 
+Lets not throw this  upon the capitalist pyre just yet.  Having a reason to get up in the morning and a way to contribute to society, whether for financial, social or personal gain, to feel that you matter in some way, to some one,  is all weve really got, so the real question is how to you provide baseline subsistence so people dont have to make the motions of contribution and not require, but rather encourage a rich, active, not necessarily capitalist life.
+ 
+Ive got no answers.
+ 
+posted by Dan
+ on April 20, 2008 #
+ 
+People dont deserve our money. Human beings, however, do deserve our respect as human beings. Equating respect with giving them money is, if I am reading this entry correctly, your mistake.
+ 
+I think the direction your thoughts take on this sound very much what I understand co-dependence to be. Most peoples situations are of their own making. If you insist that there is now way you can know what they have been through, I would half agree with you, but I would also point out that assuming that they have no control over their lives is condescending and says how little you think of them.
+ 
+They deserve a chance, they deserve a break, they deserve opportunity, they deserve real hope that can actually bear(bare?) success. Unfortunately, if handouts to someone in your home-town compares to the global handouts to places like Africa, I think the current zeitgeist is that we are learning that handouts of any sort tend to be destructive.
+ 
+posted by KiltBear
+ on April 20, 2008 #
+ 
+heres the problem:
+ 
+weve made this a moral discussion.
+ 
+it is well within your moral rights to simply donate money to people on the street without expecting anything in return.
+ 
+and it is certainly a moral thing to recognize the innate value in every human being.
+ 
+but it is impractical to start assuming that just because the action is moral, means that you have to do it all the time.
+ 
+if you made it mandatory for yourself to walk through the city each evening and gave $20 to every beggar you saw, youd be making a moral decision. and a positive one at that.
+ 
+but how long do you think youd survive on what you had left? my guess is youd end up begging on the street yourself before too long. how does that help them, really?
+ 
+i think giving money to the poor is good. but i think there are other things that can be done that are even better: where i live, i sometimes help out RIFA, a charity that offers free computer classes, job placement services, a food bank, temporary lodging, and a host of other services aimed directly at helping people lift themselves out of poverty.
+ 
+maybe thats fanatically capitalistic of them.
+ 
+or maybe theres more to helping the poor than tossing cash at them.
+ 
+posted by nic
+ on April 20, 2008 #
+ 
+Aaron, you write like someone who has been much loved in his life.
+ 
+This is, sadly, more the exception than the rule.
+ 
+if we cannot care for other people, then we have precious little else.
+ 
+Thats a laudable sentiment, but it doesnt pay the rent, buy food, get medical care, etc.
+ 
+Its also unconvincing to anyone who isnt already convinced (to a good approximation).
+ 
+posted by Seth Finkelstein
+ on April 20, 2008 #
+ 
+I recently spent some time in San Francisco.  I was amazed at the number of people giving money to beggars.  I even saw a man give his daughter a dollar bill to take to the panhandler to put in his hat.
+ 
+In London this is much less common.  Although it does still happen (otherwise we wouldnt have beggars).
+ 
+Westminster City Council and The Big Issue (our very successful equivalent of Spare Change) recently ran a large advertising campaign asking Londoners not to give money to homeless people begging on the street 
+ 
+Are you killing with kindness?  The money you give to those who beg may actually keep them on the streets. In some cases you may be helping them buy drugs that could kill them.  http://www.killingwithkindness.com/
+ 
+I think the idea of the Big Issue (and Spare Change?) is that they vet sellers of the paper in some way so that you can be a lot more sure that your contribution is  constructive (as long as you make sure you are buying from a badged vendor).
+ 
+On a personal note I havent given any money to beggars since I gave five pounds to a young man with a convincing line about needing to get into a hostel for the night whom I saw shooting up later the same night.
+ 
+posted by Thomas David Baker
+ on April 20, 2008 #
+ 
+Equating respect with giving them money is, if I am reading this entry correctly, your mistake.
+ 
+Thats pretty much what I was thinking.
+ 
+Id say another mistake is thinking theres anything simple about asking for money. It takes a lot of persuasive skill to convince people to give. Whether its asking or singing, youre rewarding a performance either way. The former group is just so talented at performing that it looks effortless to you.
+ 
+posted by Scott Reynen
+ on April 20, 2008 #
+ 
+Aaron says:
+ 
+if we cannot care for other people, then we have precious little else.
+ 
+Seth follows:
+ 
+Thats a laudable sentiment, but it doesnt pay the rent, buy food, get medical care, etc.
+ 
+Not only is Aarons statement laudable, it is common sense. Are you saying, Seth, that if we care for societys most destitute, we all lose?
+ 
+posted by Peter Rock
+ on April 20, 2008 #
+ 
+I think that simply giving money to people on the street is not the best use of resources.  Gifts and other sporadic donations to homeless/jobless folks, regardless of need, doesnt seem to address the structural issues that put them on the street in the first place.  As mentioned, the sporadic and completely undependable frequency/quantity doesnt leave much room for Tomorrow, only Now.
+What concerns me is that if we enable these individuals to remain on the street, how do we move them from the street to a self-sufficient/supported lifestyle?
+ 
+That isnt to say, Epic Fail because they havent succeeded in the capilatlist economy and therefore should be ignored, or allowed to freeze in the street [I suppose that isnt such a problem in San Fran as Toronto?].
+ 
+Resources, which are most likely hard to find, or already stretched to the limit, are, in my opinion, a better use of the money which may otherwise end up in the hands of street beggars; food programs, accessible housing, out of the cold [or the equiv. for you tropical folk], job search/creation services, and many more.
+ 
+posted by Chad
+ on April 20, 2008 #
+ 
+Chad says:
+ 
+Gifts and other sporadic donations to homeless/jobless folks, regardless of need, doesnt seem to address the structural issues that put them on the street in the first place.
+ 
+I agree though while structural solutions are absent, I see nothing wrong with sporadic giving - even if the receiver sometimes puts the gift to unproductive use.
+ 
+posted by Peter Rock
+ on April 20, 2008 #
+ 
+Chad: Does anyone actually say Hmm, I could give some spare change to this fellow, or I could donate it to a nonprofit working to solve the structural problems that cause homelessness? I doubt it. I think most people could easily do both.
+ 
+That said, Id love to hear recommendations for San Francisco and Boston groups addressing structual causes of homelessness to donate to.
+ 
+posted by Aaron Swartz
+ on April 20, 2008 #
+ 
+Minor nit Aaron. The poor creates IMHO negative images. I was strafed by a blind guy for talking about the blind as a generic group. We are people, who happen to be blind, sort of puts the emphasis where it should be. People first.
+ 
+Funny how you are one of the clever doesnt work, yet, hes one of the poor does. Derogatory? Im not sure.
+ 
+Thoughtful post though.
+ 
+posted by Dave Pawson
+ on April 20, 2008 #
+ 
+Peter: Im saying that while homilies are fine, they also are very limited. While it is not wrong to preach them, it also is not all that productive either. Many people go around saying some variant of The best society is when everyone acts their best.
+Okay, right. But theres very many local incentives for people to be selfish bastards. Now what?
+ 
+posted by Seth Finkelstein
+ on April 21, 2008 #
+ 
+Make no mistake, you are advocating violence here. People who think they have a right to take my money and give it to others, would best be prepared to eat lead.
+ 
+posted by Jim
+ on April 23, 2008 #
+ 
+Aaron: not sure what meets your definition of addressing structual causes of homelessness, but I can say that Womens Lunch Place, in Boston, does a great job of providing resources for specific homeless women to get back on their feet, and would make good use of any donations.
+ 
+http://womenslunchplace.org
+ 
+posted by Joe
+ on June 10, 2008 #
+ 
+You can also send comments by email.
+ 
+
+ 
