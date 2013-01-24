@@ -1,3 +1,8 @@
+
+
+#__author__ = Rohit Menon
+#__Contact__ = rohitsm@gmail.com
+
 array = []
 #current_link = "http://www.aaronsw.com/weblog/oclcscam"
 current_link = "http://www.aaronsw.com/weblog/newobjectivity"

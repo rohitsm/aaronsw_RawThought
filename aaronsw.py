@@ -4,6 +4,9 @@ import sys
 from bs4 import BeautifulSoup
 import time
 
+#__author__ = Rohit Menon
+#__Contact__ = rohitsm@gmail.com
+
 link = "http://www.aaronsw.com/weblog/fullarchive"
 
 def get_page_html(link):
