@@ -36,13 +36,13 @@ def get_all_title_links(data):
 
 title_urls_list, post_titles = get_all_title_links(link)
 print "No of total links: ", len(title_urls_list)
+bad_urls = []
+
 def get_blog_post(title_urls_list, post_titles):
-	m = 327 
-	# Initial value of m changes based on the program crashes. 
-	# This can be obtained from the index of the link in arrays.
-	array = []
-	current_link = "http://www.aaronsw.com/weblog/newobjectivity"
-	f = open("RawThoughts_4.txt",'w')
+	# Keeps list of urls after reading from file
+	array = [] 
+	current_link = "http://www.aaronsw.com/weblog/tdk"
+	f = open("RawThoughts.txt",'w')
 	for url in open("EntryLinks.txt", "r").readlines():
 		array.append(url.strip("\n"))
 	
@@ -50,13 +50,20 @@ def get_blog_post(title_urls_list, post_titles):
 	print "Flag Point", flag_point
 	for i in range(flag_point, len(array)):
 		url = array[i]
-		print "URL : ", url
+		m = array.index(url)
+		print "Getting URL : ", url
 		print "Post No: ", m
-		m = m+1
-		page = get_page_html(str(url))
-		soup = BeautifulSoup(page)
-		f.write( "\n====================================================\n")
 		
+		try:
+			page = get_page_html(str(url))
+			soup = BeautifulSoup(page)
+		except:
+			print "HTTP 404 encountered and flagged - ", url
+			bad_urls.append(url)
+			print "Flagged m = ", m
+
+		f.write( "\n====================================================\n")
+
 		for p in soup.findAll("div",{"class": "content"}):
 			date = [date.text for date in p.findAll(True, {"class":"posted"})]
 			post_date = date[0]
@@ -65,13 +72,16 @@ def get_blog_post(title_urls_list, post_titles):
 				f.write("Title: " + (t.text).encode("ascii", "ignore")+"\n \n")
 			for t in p.findAll("p"):
 				f.write((t.text).encode("ascii", "ignore")+"\n \n")
-		
+
+		m = m+1
 	f.close()
 
 start_time = time.time()
 get_blog_post(title_urls_list, post_titles)
 end_time = time.time()-start_time
 print "End of program: ", end_time
+print "No of bad urls = ", len(bad_urls)
+print "Bad urls", bad_urls
 
 
 
