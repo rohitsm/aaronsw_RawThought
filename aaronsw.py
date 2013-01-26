@@ -38,6 +38,9 @@ title_urls_list, post_titles = get_all_title_links(link)
 print "No of total links: ", len(title_urls_list)
 bad_urls = []
 
+# Program can also be modified to read the URLs directly from 
+# title_urls_list instead of reading from file "EntryLinks.txt"
+
 def get_blog_post(title_urls_list, post_titles):
 	# Keeps list of urls after reading from file
 	array = [] 
