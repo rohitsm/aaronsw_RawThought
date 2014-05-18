@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import time
 
 #__author__ = Rohit Menon
-#__Contact__ = rohitsm@gmail.com
+#__Contact__ = me@rohitsm.com
 
 link = "http://www.aaronsw.com/weblog/fullarchive"
 
