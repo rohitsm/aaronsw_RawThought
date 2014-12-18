@@ -7,4 +7,5 @@ This program was written in haste and rather crudely. As a result, all the bugs 
 Some portions of the text may have some encoding related issues too. I hope to resolve these in further updates to the code. 
 
 **UPDATE** 
-A detailed rationale behind this project can be found here [here](http://blog.rohitsm.com/2013/01/remembering-aaron-swartz-raw-thought.html). 
+
+A detailed rationale behind this project can be found [here](http://blog.rohitsm.com/2013/01/remembering-aaron-swartz-raw-thought.html). 
