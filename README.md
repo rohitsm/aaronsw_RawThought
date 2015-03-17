@@ -2,7 +2,7 @@
 
 Python web crawler to get all the blog entries from [Aaron Swartz's](http://en.wikipedia.org/wiki/Aaron_Swartz) [weblog](http://www.aaronsw.com/weblog/). It contains all of the 449 entries.  The output was written into .txt files which I then converted to PDF. The PDF file can be downloaded separately [here](https://github.com/rohitsm/aaronsw_RawThought/tree/master/PDF). 
 
-![alt text](https://github.com/rohitsm/aaronsw_RawThought/tree/master/images/Aaron_Swartz.png "Aaron Swartz (1986 - 2013)")
+![alt text](https://github.com/rohitsm/aaronsw_RawThought/blob/master/images/Aaron_Swartz.png "Aaron Swartz (1986 - 2013)")
 
 This program was written in haste and rather crudely. As a result, all the bugs haven't been entirely resolved. The crawler crashed at the links whose corresponding pages didn't exist. It had to be manually restarted from these points. 
 
