@@ -10,11 +10,11 @@ Some portions of the text may have some encoding related issues too. I hope to r
 
 **UPDATE 2** 
 
-Some of my code from this repository got featured in the 2014 documentary "The Internet's Own Boy: The Story of Aaron Swartz". I humblebragged about this [here](http://blog.rohitsm.com/2014/11/humblebrag-this-blog-got-featured-in.html)
+Some of my code from this repository got featured in the 2014 documentary "The Internet's Own Boy: The Story of Aaron Swartz". I humblebragged about this [here](http://oldblog.rohitsm.com/2014/11/humblebrag-this-blog-got-featured-in.html)
 
 **UPDATE 1** 
 
-A detailed rationale behind this project can be found [here](http://blog.rohitsm.com/2013/01/remembering-aaron-swartz-raw-thought.html). 
+A detailed rationale behind this project can be found [here](http://oldblog.rohitsm.com/2013/01/remembering-aaron-swartz-raw-thought.html). 
 
 
 
