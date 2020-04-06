@@ -18,7 +18,7 @@ A detailed rationale behind this project can be found [here](http://oldblog.rohi
 
 
 
-#MIT License
+## MIT License
 
 Copyright (c) 2014 [Rohit Menon](www.rohitsm.com)
 
